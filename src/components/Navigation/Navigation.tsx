@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Avatar, Box, Button, Divider, IconButton, ListItemIcon, MenuItem, Menu, Tab, Tabs, Tooltip, useMediaQuery, useTheme } from "@mui/material";
+import { Avatar, Box, Button, Divider, IconButton, ListItemIcon, MenuItem, Menu, Tab, Tabs, Tooltip } from "@mui/material";
 import { LogoDev, Send, Settings, Logout } from "@mui/icons-material/";
 import BurgerMenu from "./BurgerMenu";
 import { AvatarButton, NavTypography } from "../../styles/MuiStyles";
@@ -38,7 +38,7 @@ function Navigation() {
   };
 
   return (
-    <Box style={{ display: "flex", alignItems: "center"}} sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}>
+    <Box style={{ display: "flex", alignItems: "center" }} sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}>
       <BurgerMenu />
 
       <Button
@@ -54,8 +54,8 @@ function Navigation() {
       >
         <LogoDev fontSize="large" sx={{ color: "darkolivegreen" }} />
       </Button>
-      <NavTypography sx={{ display: { xs: "none", sm: "none", md: "flex", lg: "flex" } }}>Responsive Layout Lavet Med Grid</NavTypography>
-      <NavTypography sx={{ display: { xs: "block", sm: "blok", md: "none", lg: "none" } }}>RLLMG</NavTypography>
+      <NavTypography sx={{ display: { xs: "none", sm: "none", md: "none", lg: "flex" } }}>Responsive Layout Lavet Med Grid</NavTypography>
+      <NavTypography sx={{ display: { xs: "block", sm: "block", md: "block", lg: "none" } }}>RLLMG</NavTypography>
       <>
         <Tabs
           value={pageIndex}
@@ -119,10 +119,10 @@ function Navigation() {
           textAlign: "center",
         }}
       >
-        <AvatarButton startIcon={<Settings style={{ color: "secondary.dark" }} sx={breakPointIcons} />} sx={{ display: { xs: "none", sm: "flex", md: "flex", lg: "flex" } }}>
+        <AvatarButton startIcon={<Settings style={{ color: "secondary.dark" }} sx={breakPointIcons} />} sx={{ display: { xs: "none", sm: "none", md: "flex", lg: "flex" } }}>
           Settings
         </AvatarButton>
-        <AvatarButton startIcon={<Settings style={{ color: "secondary.dark" }} sx={breakPointIcons} />} sx={{ display: { xs: "none", sm: "flex", md: "flex", lg: "flex" } }}>
+        <AvatarButton startIcon={<Settings style={{ color: "secondary.dark" }} sx={breakPointIcons} />} sx={{ display: { xs: "none", sm: "none", md: "flex", lg: "flex" } }}>
           About us
         </AvatarButton>
         <Tooltip title="Account settings">

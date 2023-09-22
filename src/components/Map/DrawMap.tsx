@@ -26,9 +26,9 @@ const DrawMap = () => {
     const drawVector = new VectorLayer({
       source: new VectorSource(),
       style: {
-        "stroke-color": "rgba(100, 255, 0, 1)",
+        "stroke-color": "lightcoral",
         "stroke-width": 2,
-        "fill-color": "rgba(100, 255, 0, 0.3)",
+        "fill-color": "rgba(156, 39, 176, 0.3)",
       },
     });
 
@@ -74,11 +74,11 @@ const DrawMap = () => {
   return (
     <>
       <div ref={mapRef} style={{ width: "100%", height: "100%" }} />
-      <form>
+      <form style={{ width: "100%", display: "flex", justifyContent: "center", gap: "20px" }}>
         <label htmlFor="type">Geometry type &nbsp;</label>
-        <select id="type">
+        <select id="type" style={{ border: "2px solid lightcoral", borderRadius: "4px", padding: "5px" }}>
           <option value="Polygon">Polygon</option>
-          <option value="LineString">LineString</option>
+          <option value="LineString">Line</option>
           <option value="None">None</option>
         </select>
       </form>

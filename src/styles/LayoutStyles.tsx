@@ -3,7 +3,7 @@ import { styled, Box, Theme } from "@mui/material";
 export const AppWrapper = styled(Box)(({}: { theme: Theme }) => ({
   display: "grid",
   gridTemplateColumns: "repeat(4, [col] 1fr)",
-  gridTemplateRows: "[row] 40px [row] auto",
+  gridTemplateRows: "[row] 44px [row] auto",
   height: "100vh",
   fontSize: "150%",
   /* "&.noHeader": {
@@ -19,7 +19,7 @@ export const AppHeader = styled(Box)(({ theme }: { theme: Theme }) => ({
   borderBottom: "4px solid",
   borderBottomColor: theme.palette.grey[500],
   backgroundColor: "lightcoral",
-  height: "40px",
+  /*   height: "40px", */
 }));
 
 export const AppBody = styled(Box)(({}: { theme: Theme }) => ({

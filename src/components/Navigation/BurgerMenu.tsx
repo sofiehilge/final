@@ -3,6 +3,7 @@ import { useState } from "react";
 import Hamburger from "hamburger-react";
 import { SendOutlined } from "@mui/icons-material/";
 import { Link } from "react-router-dom";
+import { red } from "@mui/material/colors";
 
 const BurgerMenu = () => {
   const [openDrawer, setOpenDrawer] = useState(false);
@@ -28,7 +29,8 @@ const BurgerMenu = () => {
           position: "relative",
           width: drawerWidth,
           "& .MuiDrawer-paper": {
-            top: "48px",
+            top: "40px",
+            backgroundColor: "#9e9e9e",
           },
           "& .MuiBackdrop-root": {
             backgroundColor: "rgba(0, 0, 0, 0)",
@@ -42,27 +44,27 @@ const BurgerMenu = () => {
                 <ListItemIcon>
                   <SendOutlined color="secondary" />
                 </ListItemIcon>
-                <ListItemText primary="Home" />
+                <ListItemText primary="Layoutswitcher" />
               </ListItemButton>
             </Link>
           </ListItem>
           <ListItem>
-            <Link to="/dashboard" style={{ textDecoration: "none", color: "inherit" }}>
+            <Link to="/secondmap" style={{ textDecoration: "none", color: "inherit" }}>
               <ListItemButton onClick={() => setOpenDrawer(false)}>
                 <ListItemIcon>
                   <SendOutlined color="secondary" />
                 </ListItemIcon>
-                <ListItemText primary="Dashboard" />
+                <ListItemText primary="Draw on map" />
               </ListItemButton>
             </Link>
           </ListItem>
           <ListItem>
-            <Link to="/repositories" style={{ textDecoration: "none", color: "inherit" }}>
+            <Link to="/thirdmap" style={{ textDecoration: "none", color: "inherit" }}>
               <ListItemButton onClick={() => setOpenDrawer(false)}>
                 <ListItemIcon>
                   <SendOutlined color="secondary" />
                 </ListItemIcon>
-                <ListItemText primary="Repositories" />
+                <ListItemText primary="Bingmap" />
               </ListItemButton>
             </Link>
           </ListItem>

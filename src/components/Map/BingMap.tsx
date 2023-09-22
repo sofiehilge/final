@@ -4,6 +4,7 @@ import { Tile as TileLayer } from "ol/layer";
 
 import BingMaps from "ol/source/BingMaps.js";
 import "ol/ol.css";
+import "../../styles/App.css";
 
 const BingMap = () => {
   const mapRef = useRef<HTMLDivElement | null>(null);
@@ -61,8 +62,8 @@ const BingMap = () => {
   }, []);
   return (
     <>
-      <div ref={mapRef} style={{ width: "100%", height: "100%" }} />
-      <select defaultValue={"DEFAULT"} id="layer-select">
+      <div ref={mapRef} style={{ width: "100%", height: "100%", position: "relative" }} />
+      <select className="custom-select" defaultValue={"DEFAULT"} id="layer-select" style={{ marginLeft: "px", marginBottom: "7px", width: "25%", position: "absolute", bottom: "5px", border: "2px solid lightcoral", borderRadius: "4px", padding: "5px" }}>
         <option value="Aerial">Aerial</option>
         <option value="AerialWithLabelsOnDemand" selected>
           Aerial with labels

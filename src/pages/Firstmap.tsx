@@ -3,6 +3,7 @@ import { AppWrapper, AppHeader, AppBody, AppBodyLayout } from "../styles/LayoutS
 import Navigation from "../components/Navigation/Navigation";
 
 import LayerSwitcherMap from "../components/LayerSwitcherMap/LayerSwitcherMap";
+import BackgroundImage from "../components/Map/BackgroundImage";
 
 const Firstmap = () => {
   return (
@@ -14,6 +15,7 @@ const Firstmap = () => {
         <AppBody>
           <AppBodyLayout>
             <LayerSwitcherMap />
+            <BackgroundImage />
           </AppBodyLayout>
         </AppBody>
       </AppWrapper>

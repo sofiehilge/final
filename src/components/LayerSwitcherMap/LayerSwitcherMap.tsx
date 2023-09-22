@@ -6,6 +6,9 @@ import XYZ from "ol/source/XYZ";
 import LayerSwitcher from "ol-ext/control/LayerSwitcher";
 import "ol-ext/dist/ol-ext.css";
 import "ol/ol.css";
+import ImageLayer from "ol/layer/Image";
+import Static from "ol/source/ImageStatic";
+import Projection from "ol/proj/Projection";
 // import { Group } from "ol/layer";
 
 const LayerSwitcherMap = () => {
@@ -78,7 +81,7 @@ const LayerSwitcherMap = () => {
       }),
       controls: [
         new LayerSwitcher({
-          collapsed: false,
+          collapsed: true,
           reordering: true,
         }),
       ],
@@ -89,7 +92,7 @@ const LayerSwitcherMap = () => {
     return () => map.setTarget(undefined);
   }, []);
 
-  return <div ref={mapRef} style={{ width: "100%", height: "100%" }} />;
+  return <div ref={mapRef} style={{ width: "100%", height: "100%", zIndex: 5, position: "relative" }} />;
 };
 
 export default LayerSwitcherMap;
