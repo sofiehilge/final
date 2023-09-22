@@ -1,0 +1,2884 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30e5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57700067, 55.70856778]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 49690, "navn": "Efterår", "loebenummer": 115, "web_id": 167, "x": 724712.263534, "y": 6179443.037248, "longitude": 12.577001, "latitude": 55.708568, "graffitirenhold": "Ja", "ogc_fid": "1" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30e6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56281024, 55.69674139]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 49865, "navn": "H.W. Meyer", "loebenummer": 41, "web_id": 93, "x": 723888.874104, "y": 6178081.85755, "longitude": 12.56281, "latitude": 55.696741, "graffitirenhold": "Ja", "ogc_fid": "2" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30e7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56936148, 55.69786887]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 49866, "navn": "Sigurd Fafnersbane og slange", "loebenummer": 314, "web_id": 353, "x": 724293.902081, "y": 6178228.432224, "longitude": 12.569361, "latitude": 55.697869, "graffitirenhold": "Ja", "ogc_fid": "3" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30e8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56507668, 55.68087078]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50058, "navn": "Satyr med bacchusbarn", "loebenummer": 21, "web_id": 67, "x": 724122.061749, "y": 6176324.162901, "longitude": 12.565077, "latitude": 55.680871, "graffitirenhold": "Ja", "ogc_fid": "4" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30e9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56737519, 55.69998216]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50063, "navn": "Talerstol", "loebenummer": 290, "web_id": 330, "x": 724157.041343, "y": 6178457.03039, "longitude": 12.567375, "latitude": 55.699982, "graffitirenhold": "Ja", "ogc_fid": "5" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ea",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56513057, 55.69999697]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50066, "navn": "Ole Syversen", "loebenummer": 38, "web_id": 90, "x": 724015.981189, "y": 6178451.419807, "longitude": 12.565131, "latitude": 55.699997, "graffitirenhold": "Ja", "ogc_fid": "6" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30eb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56507287, 55.68067427]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50104, "navn": "L.N. Hvidt", "loebenummer": 14, "web_id": 1, "x": 724122.946833, "y": 6176302.296936, "longitude": 12.565073, "latitude": 55.680674, "graffitirenhold": "Ja", "ogc_fid": "7" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ec",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56888193, 55.68171539]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50140, "navn": "Vinsugende satyrdreng", "loebenummer": 17, "web_id": 54, "x": 724356.331119, "y": 6176430.404599, "longitude": 12.568882, "latitude": 55.681715, "graffitirenhold": "Ja", "ogc_fid": "8" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ed",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57291676, 55.67767054]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50141, "navn": "Københavns tredje og fjerde rådhus", "loebenummer": 174, "web_id": 219, "x": 724633.057041, "y": 6175993.633672, "longitude": 12.572917, "latitude": 55.677671, "graffitirenhold": "Nej", "ogc_fid": "9" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ee",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57176466, 55.67919222]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50143, "navn": "Reformationsmonumentet", "loebenummer": 147, "web_id": 196, "x": 724551.933485, "y": 6176159.130707, "longitude": 12.571765, "latitude": 55.679192, "graffitirenhold": "Ja", "ogc_fid": "10" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ef",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57353222, 55.67937674]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50144, "navn": "Skålfrugt", "loebenummer": 234, "web_id": 271, "x": 724661.946764, "y": 6176185.379004, "longitude": 12.573532, "latitude": 55.679377, "graffitirenhold": "Ja", "ogc_fid": "11" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57207282, 55.67937847]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50145, "navn": null, "loebenummer": null, "web_id": null, "x": 724570.229848, "y": 6176180.842944, "longitude": 12.572073, "latitude": 55.679378, "graffitirenhold": null, "ogc_fid": "12" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57220936, 55.67915762]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50146, "navn": null, "loebenummer": null, "web_id": null, "x": 724580.076416, "y": 6176156.724382, "longitude": 12.572209, "latitude": 55.679158, "graffitirenhold": null, "ogc_fid": "13" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5725616, 55.67951818]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50147, "navn": null, "loebenummer": null, "web_id": null, "x": 724600.142949, "y": 6176197.963804, "longitude": 12.572562, "latitude": 55.679518, "graffitirenhold": null, "ogc_fid": "14" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57246654, 55.67949906]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50148, "navn": null, "loebenummer": null, "web_id": null, "x": 724594.279262, "y": 6176195.529821, "longitude": 12.572467, "latitude": 55.679499, "graffitirenhold": null, "ogc_fid": "15" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57209778, 55.6796834]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50149, "navn": null, "loebenummer": null, "web_id": null, "x": 724570.050065, "y": 6176214.835734, "longitude": 12.572098, "latitude": 55.679683, "graffitirenhold": null, "ogc_fid": "16" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57220919, 55.67970801]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50150, "navn": null, "loebenummer": null, "web_id": null, "x": 724576.909472, "y": 6176217.933531, "longitude": 12.572209, "latitude": 55.679708, "graffitirenhold": null, "ogc_fid": "17" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57233671, 55.67973563]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50151, "navn": null, "loebenummer": null, "web_id": null, "x": 724584.7646, "y": 6176221.418552, "longitude": 12.572337, "latitude": 55.679736, "graffitirenhold": null, "ogc_fid": "18" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5728379, 55.67984488]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50152, "navn": null, "loebenummer": null, "web_id": null, "x": 724615.631934, "y": 6176235.192685, "longitude": 12.572838, "latitude": 55.679845, "graffitirenhold": null, "ogc_fid": "19" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57295929, 55.67987268]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50153, "navn": null, "loebenummer": null, "web_id": null, "x": 724623.099837, "y": 6176238.677706, "longitude": 12.572959, "latitude": 55.679873, "graffitirenhold": null, "ogc_fid": "20" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30f9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57308317, 55.67989892]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50154, "navn": null, "loebenummer": null, "web_id": null, "x": 724630.733694, "y": 6176241.996775, "longitude": 12.573083, "latitude": 55.679899, "graffitirenhold": null, "ogc_fid": "21" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30fa",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57326432, 55.67993473]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50156, "navn": null, "loebenummer": null, "web_id": null, "x": 724641.911903, "y": 6176246.566435, "longitude": 12.573264, "latitude": 55.679935, "graffitirenhold": null, "ogc_fid": "22" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30fb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57971349, 55.69092446]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50317, "navn": null, "loebenummer": null, "web_id": null, "x": 724984.00991, "y": 6177489.6799, "longitude": 12.579713, "latitude": 55.690924, "graffitirenhold": null, "ogc_fid": "23" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30fc",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55896983, 55.67461512]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50322, "navn": "Abstrakt skulptur", "loebenummer": 266, "web_id": 301, "x": 723774.064799, "y": 6175608.723366, "longitude": 12.55897, "latitude": 55.674615, "graffitirenhold": "Ja", "ogc_fid": "24" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30fd",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58896111, 55.69048619]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 50323, "navn": null, "loebenummer": null, "web_id": null, "x": 725567.467946, "y": 6177470.997177, "longitude": 12.588961, "latitude": 55.690486, "graffitirenhold": null, "ogc_fid": "25" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30fe",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52228252, 55.64504306]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51070, "navn": "Skurestribesten", "loebenummer": 189, "web_id": 233, "x": 721635.529843, "y": 6172202.059717, "longitude": 12.522283, "latitude": 55.645043, "graffitirenhold": "Ja", "ogc_fid": "26" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_30ff",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5201128, 55.64115924]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51071, "navn": "Havtaske", "loebenummer": 223, "web_id": 262, "x": 721521.000668, "y": 6171763.19043, "longitude": 12.520113, "latitude": 55.641159, "graffitirenhold": "Nej", "ogc_fid": "27" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3100",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56670935, 55.68274066]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51511, "navn": null, "loebenummer": null, "web_id": null, "x": 724213.947424, "y": 6176537.39788, "longitude": 12.566709, "latitude": 55.682741, "graffitirenhold": null, "ogc_fid": "28" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3101",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57549712, 55.68930365]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51559, "navn": "Det lider mot skymning", "loebenummer": 34, "web_id": 85, "x": 724728.441197, "y": 6177295.745975, "longitude": 12.575497, "latitude": 55.689304, "graffitirenhold": "Ja", "ogc_fid": "29" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3102",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59678576, 55.68858167]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51790, "navn": "Anders Lassen", "loebenummer": 272, "web_id": 309, "x": 726070.011772, "y": 6177284.686914, "longitude": 12.596786, "latitude": 55.688582, "graffitirenhold": "Ja", "ogc_fid": "30" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3103",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59872023, 55.69012465]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51791, "navn": "Prinsesse Marie", "loebenummer": 67, "web_id": 121, "x": 726182.626789, "y": 6177462.595221, "longitude": 12.59872, "latitude": 55.690125, "graffitirenhold": "Ja", "ogc_fid": "31" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3104",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59974882, 55.69522975]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51792, "navn": "Ejner Mikkelsen", "loebenummer": 229, "web_id": 266, "x": 726217.74024, "y": 6178033.698489, "longitude": 12.599749, "latitude": 55.69523, "graffitirenhold": "Ja", "ogc_fid": "32" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3105",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59915655, 55.6906136]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51793, "navn": "Ivar Huitfeldt", "loebenummer": 66, "web_id": 120, "x": 726207.211489, "y": 6177518.395771, "longitude": 12.599157, "latitude": 55.690614, "graffitirenhold": "Ja", "ogc_fid": "33" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3106",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59656738, 55.68872573]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51794, "navn": "Winston Churchill", "loebenummer": 193, "web_id": 236, "x": 726055.460258, "y": 6177299.995376, "longitude": 12.596567, "latitude": 55.688726, "graffitirenhold": "Ja", "ogc_fid": "34" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3107",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5985423, 55.68960177]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51813, "navn": "Frederik IX", "loebenummer": 252, "web_id": 286, "x": 726174.469824, "y": 6177403.864249, "longitude": 12.598542, "latitude": 55.689602, "graffitirenhold": "Ja", "ogc_fid": "35" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3108",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59665596, 55.68888442]] },
+      "geometry_name": "wkb_geometry",
+      "properties": {
+        "id": 51814,
+        "navn": "Mindesmærke for to danske soldater dekoreret med Victoriakorset under 1. Verdenskrig",
+        "loebenummer": 365,
+        "web_id": 476,
+        "x": 726060.109346,
+        "y": 6177317.932506,
+        "longitude": 12.596656,
+        "latitude": 55.688884,
+        "graffitirenhold": "Ja",
+        "ogc_fid": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3109",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59191825, 55.68866466]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51815, "navn": "Neapolitansk fiskerdreng", "loebenummer": 49, "web_id": 102, "x": 725763.740357, "y": 6177278.050027, "longitude": 12.591918, "latitude": 55.688665, "graffitirenhold": "Ja", "ogc_fid": "37" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58991102, 55.69046266]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51816, "navn": "Liggende pige", "loebenummer": 155, "web_id": 201, "x": 725627.27736, "y": 6177471.472228, "longitude": 12.589911, "latitude": 55.690463, "graffitirenhold": "Ja", "ogc_fid": "38" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59503323, 55.68803922]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51817, "navn": "Danske spaniensfrivillige", "loebenummer": 263, "web_id": 298, "x": 725963.042936, "y": 6177218.64488, "longitude": 12.595033, "latitude": 55.688039, "graffitirenhold": "Ja", "ogc_fid": "39" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5913757, 55.68933978]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51818, "navn": "Danaide", "loebenummer": 50, "web_id": 103, "x": 725725.763295, "y": 6177351.363786, "longitude": 12.591376, "latitude": 55.68934, "graffitirenhold": "Ja", "ogc_fid": "40" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59565695, 55.68831348]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51819, "navn": "Såret kvinde", "loebenummer": 220, "web_id": 259, "x": 726000.644346, "y": 6177251.179221, "longitude": 12.595657, "latitude": 55.688313, "graffitirenhold": "Ja", "ogc_fid": "41" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59764282, 55.68932118]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51820, "navn": "Gefionspringvandet", "loebenummer": 106, "web_id": 159, "x": 726119.58382, "y": 6177369.724194, "longitude": 12.597643, "latitude": 55.689321, "graffitirenhold": "Ja", "ogc_fid": "42" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_310f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59442589, 55.68797161]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51821, "navn": "Finnebørnsmonumentet", "loebenummer": 320, "web_id": 393, "x": 725925.277283, "y": 6177209.145655, "longitude": 12.594426, "latitude": 55.687972, "graffitirenhold": "Ja", "ogc_fid": "43" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3110",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59387271, 55.68791145]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51822, "navn": "Valkyrie", "loebenummer": 44, "web_id": 96, "x": 725890.870928, "y": 6177200.652098, "longitude": 12.593873, "latitude": 55.687911, "graffitirenhold": "Ja", "ogc_fid": "44" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3111",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59994771, 55.69358498]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51823, "navn": "Svømmeren ", "loebenummer": 45, "web_id": 97, "x": 726239.739012, "y": 6177851.430653, "longitude": 12.599948, "latitude": 55.693585, "graffitirenhold": "Ja", "ogc_fid": "45" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3112",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59744672, 55.69397389]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51824, "navn": "Søfartsmonumentet", "loebenummer": 72, "web_id": 128, "x": 726080.393267, "y": 6177886.520055, "longitude": 12.597447, "latitude": 55.693974, "graffitirenhold": "Ja", "ogc_fid": "46" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3113",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.6002451, 55.69486385]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51825, "navn": "Mylius Erichsen", "loebenummer": 47, "web_id": 99, "x": 726251.028026, "y": 6177994.62663, "longitude": 12.600245, "latitude": 55.694864, "graffitirenhold": "Ja", "ogc_fid": "47" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3114",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59670563, 55.68848095]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51826, "navn": "Hornmine", "loebenummer": 250, "web_id": 284, "x": 726065.559373, "y": 6177273.2236, "longitude": 12.596706, "latitude": 55.688481, "graffitirenhold": "Ja", "ogc_fid": "48" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3115",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5967547, 55.68883225]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51827, "navn": "Kennedy egen", "loebenummer": 366, "web_id": 481, "x": 726066.613256, "y": 6177312.453177, "longitude": 12.596755, "latitude": 55.688832, "graffitirenhold": null, "ogc_fid": "49" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3116",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59684833, 55.68865517]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 51828, "navn": "Thomas Dinesen", "loebenummer": 372, "web_id": 489, "x": 726073.518284, "y": 6177293.065004, "longitude": 12.596848, "latitude": 55.688655, "graffitirenhold": "Ja", "ogc_fid": "50" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3117",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56477535, 55.67535866]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64986, "navn": "Zodiac", "loebenummer": 274, "web_id": 311, "x": 724134.667732, "y": 6175710.170322, "longitude": 12.564775, "latitude": 55.675359, "graffitirenhold": "Ja", "ogc_fid": "51" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3118",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55194537, 55.68970642]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74279, "navn": "Fjodor Dostojevskij", "loebenummer": 375, "web_id": null, "x": 723246.556299, "y": 6177264.426287, "longitude": 12.551945, "latitude": 55.689706, "graffitirenhold": null, "ogc_fid": "52" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3119",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53639355, 55.6511443]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74281, "navn": "Anker Jørgensen", "loebenummer": 376, "web_id": 514, "x": 722488.420578, "y": 6172925.792631, "longitude": 12.536394, "latitude": 55.651144, "graffitirenhold": "Ja", "ogc_fid": "53" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59389262, 55.67462425]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65010, "navn": "Anker fra Georg Stage", "loebenummer": 380, "web_id": 519, "x": 725968.775337, "y": 6175723.025411, "longitude": 12.593893, "latitude": 55.674624, "graffitirenhold": null, "ogc_fid": "54" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5818404, 55.69223947]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Inger Christensen", "loebenummer": 381, "web_id": 521, "x": 725110.060241, "y": 6177642.831325, "longitude": 12.58184, "latitude": 55.692239, "graffitirenhold": null, "ogc_fid": "55" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57313234, 55.68125879]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 724626.024096, "y": 6176393.391566, "longitude": 12.573132, "latitude": 55.681259, "graffitirenhold": null, "ogc_fid": "56" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57107034, 55.68075897]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 724499.322139, "y": 6176331.124378, "longitude": 12.57107, "latitude": 55.680759, "graffitirenhold": null, "ogc_fid": "57" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57971713, 55.68086587]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725042.040109, "y": 6176371.05272, "longitude": 12.579717, "latitude": 55.680866, "graffitirenhold": null, "ogc_fid": "58" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_311f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58763198, 55.68129863]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725536.885321, "y": 6176444.905677, "longitude": 12.587632, "latitude": 55.681299, "graffitirenhold": null, "ogc_fid": "59" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3120",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58102933, 55.6868528]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725090.077698, "y": 6177041.132867, "longitude": 12.581029, "latitude": 55.686853, "graffitirenhold": null, "ogc_fid": "60" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3121",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56323126, 55.68843797]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 723962.818176, "y": 6177159.768852, "longitude": 12.563231, "latitude": 55.688438, "graffitirenhold": null, "ogc_fid": "61" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3122",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54019695, 55.70060073]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 722446.569652, "y": 6178438.248756, "longitude": 12.540197, "latitude": 55.700601, "graffitirenhold": null, "ogc_fid": "62" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3123",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55134077, 55.68599086]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 723229.756219, "y": 6176849.258706, "longitude": 12.551341, "latitude": 55.685991, "graffitirenhold": null, "ogc_fid": "63" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3124",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60650821, 55.65885839]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 726852.865672, "y": 6174010.885572, "longitude": 12.606508, "latitude": 55.658858, "graffitirenhold": null, "ogc_fid": "64" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3125",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58002803, 55.66556227]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725149.512438, "y": 6174670.114428, "longitude": 12.580028, "latitude": 55.665562, "graffitirenhold": null, "ogc_fid": "65" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3126",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58955939, 55.69140091]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 52029, "navn": "Frivillige og faldne", "loebenummer": 70, "web_id": 124, "x": 725599.781167, "y": 6177574.672874, "longitude": 12.589559, "latitude": 55.691401, "graffitirenhold": "Ja", "ogc_fid": "66" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3127",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59523031, 55.68931581]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 52030, "navn": "Vore faldne", "loebenummer": 227, "web_id": 265, "x": 725968.056338, "y": 6177361.25869, "longitude": 12.59523, "latitude": 55.689316, "graffitirenhold": "Ja", "ogc_fid": "67" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3128",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59934812, 55.69319442]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 52031, "navn": "Efter badet", "loebenummer": 46, "web_id": 98, "x": 726204.332935, "y": 6177806.038338, "longitude": 12.599348, "latitude": 55.693194, "graffitirenhold": "Ja", "ogc_fid": "68" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3129",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59673135, 55.68858757]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 52032, "navn": "Egetræ til minde om 60-året for besættelsens ophør", "loebenummer": 342, "web_id": 441, "x": 726066.559378, "y": 6177285.164989, "longitude": 12.596731, "latitude": 55.688588, "graffitirenhold": "Nej", "ogc_fid": "69" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59680124, 55.68860164]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 52033, "navn": "Kaj Birksted", "loebenummer": 352, "web_id": 463, "x": 726070.86858, "y": 6177286.957466, "longitude": 12.596801, "latitude": 55.688602, "graffitirenhold": "Ja", "ogc_fid": "70" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5782151, 55.66698889]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725027.358209, "y": 6174822.885572, "longitude": 12.578215, "latitude": 55.666989, "graffitirenhold": null, "ogc_fid": "71" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59073837, 55.68504476]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725710.482587, "y": 6176871.631841, "longitude": 12.590738, "latitude": 55.685045, "graffitirenhold": null, "ogc_fid": "72" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58883126, 55.68696168]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 725579.616915, "y": 6177078.606965, "longitude": 12.588831, "latitude": 55.686962, "graffitirenhold": null, "ogc_fid": "73" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57433827, 55.67367108]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 724745.33209, "y": 6175553.451493, "longitude": 12.574338, "latitude": 55.673671, "graffitirenhold": null, "ogc_fid": "74" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_312f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56397321, 55.68222807]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Snublesten", "loebenummer": 374, "web_id": 511, "x": 724044.958955, "y": 6176471.544776, "longitude": 12.563973, "latitude": 55.682228, "graffitirenhold": null, "ogc_fid": "75" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3130",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59799812, 55.65286135]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74623, "navn": null, "loebenummer": null, "web_id": null, "x": 726352.455145, "y": 6173316.135392, "longitude": 12.597998, "latitude": 55.652861, "graffitirenhold": null, "ogc_fid": "76" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3131",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51735272, 55.66200362]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 75764, "navn": "Sten med indskrift", "loebenummer": 257, "web_id": 292, "x": 721229.743033, "y": 6174072.578724, "longitude": 12.517353, "latitude": 55.662004, "graffitirenhold": "Nej", "ogc_fid": "77" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3132",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5172939, 55.6620204]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 75765, "navn": "Sten med indskrift", "loebenummer": 257, "web_id": 292, "x": 721225.950711, "y": 6174074.258181, "longitude": 12.517294, "latitude": 55.66202, "graffitirenhold": "Nej", "ogc_fid": "78" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3133",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51731866, 55.66205623]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 75766, "navn": "Sten med indskrift", "loebenummer": 257, "web_id": 292, "x": 721227.305112, "y": 6174078.321383, "longitude": 12.517319, "latitude": 55.662056, "graffitirenhold": "Nej", "ogc_fid": "79" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3134",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51723031, 55.66206071]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 75767, "navn": "Sten med indskrift", "loebenummer": 257, "web_id": 292, "x": 721221.724981, "y": 6174078.538087, "longitude": 12.51723, "latitude": 55.662061, "graffitirenhold": "Nej", "ogc_fid": "80" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3135",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51732787, 55.66197301]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 75763, "navn": "Pladsudsmykning", "loebenummer": 257, "web_id": 292, "x": 721228.353621, "y": 6174069.096039, "longitude": 12.517328, "latitude": 55.661973, "graffitirenhold": "Nej", "ogc_fid": "81" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3136",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57282921, 55.67957604]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61277, "navn": null, "loebenummer": null, "web_id": null, "x": 724616.627654, "y": 6176205.265754, "longitude": 12.572829, "latitude": 55.679576, "graffitirenhold": null, "ogc_fid": "82" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3137",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60217231, 55.65116476]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61578, "navn": "Sportspige", "loebenummer": 148, "web_id": 197, "x": 726624.737241, "y": 6173141.091423, "longitude": 12.602172, "latitude": 55.651165, "graffitirenhold": "Ja", "ogc_fid": "83" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3138",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5685115, 55.67583347]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64971, "navn": "Nulpunkt Vesterport", "loebenummer": 79, "web_id": 135, "x": 724366.746665, "y": 6175775.061427, "longitude": 12.568511, "latitude": 55.675833, "graffitirenhold": "Ja", "ogc_fid": "84" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3139",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56911189, 55.67531908]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61611, "navn": "H.C. Andersen", "loebenummer": 192, "web_id": 235, "x": 724407.424966, "y": 6175719.798486, "longitude": 12.569112, "latitude": 55.675319, "graffitirenhold": "Ja", "ogc_fid": "85" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5672477, 55.67665223]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61613, "navn": "Landsoldaten og den lille hornblæser", "loebenummer": 55, "web_id": 108, "x": 724282.636327, "y": 6175862.028557, "longitude": 12.567248, "latitude": 55.676652, "graffitirenhold": "Ja", "ogc_fid": "86" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56425034, 55.67608849]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61614, "navn": "De syv aksler", "loebenummer": 264, "web_id": 299, "x": 724097.497739, "y": 6175789.63965, "longitude": 12.56425, "latitude": 55.676088, "graffitirenhold": "Ja", "ogc_fid": "87" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58410411, 55.68221973]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61615, "navn": "Niels W. Gade", "loebenummer": 154, "web_id": 200, "x": 725309.911388, "y": 6176535.86947, "longitude": 12.584104, "latitude": 55.68222, "graffitirenhold": "Nej", "ogc_fid": "88" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56738572, 55.68080305]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61616, "navn": "H.C. Ørsted", "loebenummer": 12, "web_id": 460, "x": 724267.541395, "y": 6176324.099788, "longitude": 12.567386, "latitude": 55.680803, "graffitirenhold": "Ja", "ogc_fid": "89" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55479953, 55.68257197]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61617, "navn": "Herman Trier", "loebenummer": 119, "web_id": 171, "x": 723466.574243, "y": 6176480.177084, "longitude": 12.5548, "latitude": 55.682572, "graffitirenhold": "Ja", "ogc_fid": "90" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_313f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55591546, 55.68357536]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61618, "navn": "Druknesten", "loebenummer": 287, "web_id": 327, "x": 723530.965274, "y": 6176595.365628, "longitude": 12.555915, "latitude": 55.683575, "graffitirenhold": "Ja", "ogc_fid": "91" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3140",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51332721, 55.69309582]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61619, "navn": "Lille pige med krukke", "loebenummer": 103, "web_id": 156, "x": 720801.330623, "y": 6177517.666557, "longitude": 12.513327, "latitude": 55.693096, "graffitirenhold": "Ja", "ogc_fid": "92" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3141",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5060258, 55.69613632]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61620, "navn": "Latent energi", "loebenummer": 204, "web_id": 246, "x": 720325.55619, "y": 6177832.580827, "longitude": 12.506026, "latitude": 55.696136, "graffitirenhold": "Ja", "ogc_fid": "93" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3142",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50721382, 55.69719052]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61621, "navn": "Vinge", "loebenummer": 336, "web_id": 432, "x": 720394.243667, "y": 6177953.602386, "longitude": 12.507214, "latitude": 55.69719, "graffitirenhold": "Nej", "ogc_fid": "94" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3143",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55328704, 55.70005148]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61622, "navn": "Pilen", "loebenummer": 362, "web_id": 473, "x": 723271.828157, "y": 6178419.260605, "longitude": 12.553287, "latitude": 55.700051, "graffitirenhold": "Nej", "ogc_fid": "95" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3144",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56574086, 55.6796308]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61623, "navn": "Bryderne", "loebenummer": 24, "web_id": 71, "x": 724170.89371, "y": 6176188.409262, "longitude": 12.565741, "latitude": 55.679631, "graffitirenhold": "Ja", "ogc_fid": "96" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3145",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56424559, 55.68005279]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61627, "navn": "Firbensdræberen", "loebenummer": 26, "web_id": 74, "x": 724074.518774, "y": 6176230.504995, "longitude": 12.564246, "latitude": 55.680053, "graffitirenhold": "Ja", "ogc_fid": "97" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3146",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57955973, 55.67883508]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61628, "navn": "Storkespringvandet", "loebenummer": 105, "web_id": 158, "x": 725043.818542, "y": 6176144.692884, "longitude": 12.57956, "latitude": 55.678835, "graffitirenhold": "Ja", "ogc_fid": "98" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3147",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57590995, 55.6813166]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61629, "navn": "Tycho Brahe", "loebenummer": 89, "web_id": 145, "x": 724800.224991, "y": 6176408.824799, "longitude": 12.57591, "latitude": 55.681317, "graffitirenhold": "Ja", "ogc_fid": "99" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3148",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57582189, 55.67977551]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61631, "navn": "Vandkunst", "loebenummer": 222, "web_id": 261, "x": 724803.53695, "y": 6176237.150896, "longitude": 12.575822, "latitude": 55.679775, "graffitirenhold": "Ja", "ogc_fid": "100" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3149",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57402382, 55.67078103]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61632, "navn": "Spejl og fortætning", "loebenummer": 303, "web_id": 342, "x": 724742.148584, "y": 6175231.022358, "longitude": 12.574024, "latitude": 55.670781, "graffitirenhold": "Ja", "ogc_fid": "101" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5799612, 55.67796431]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61633, "navn": "Absalon", "loebenummer": 63, "web_id": 117, "x": 725074.050371, "y": 6176049.15605, "longitude": 12.579961, "latitude": 55.677964, "graffitirenhold": "Ja", "ogc_fid": "102" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58128067, 55.67654912]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61634, "navn": "Frederik VII", "loebenummer": 61, "web_id": 115, "x": 725165.102214, "y": 6175896.054002, "longitude": 12.581281, "latitude": 55.676549, "graffitirenhold": "Ja", "ogc_fid": "103" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58599973, 55.67774457]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61635, "navn": "Niels Juel", "loebenummer": 62, "web_id": 116, "x": 725454.780104, "y": 6176044.341432, "longitude": 12.586, "latitude": 55.677745, "graffitirenhold": "Ja", "ogc_fid": "104" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58753992, 55.6806243]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61636, "navn": "Mindeanker", "loebenummer": 173, "web_id": 57, "x": 725534.984063, "y": 6176369.61189, "longitude": 12.58754, "latitude": 55.680624, "graffitirenhold": "Ja", "ogc_fid": "105" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56498552, 55.67999766]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61637, "navn": "Satyr med klangbækkener", "loebenummer": 22, "web_id": 69, "x": 724121.330013, "y": 6176226.76648, "longitude": 12.564986, "latitude": 55.679998, "graffitirenhold": "Ja", "ogc_fid": "106" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_314f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56473432, 55.68601685]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61638, "navn": "Nilen", "loebenummer": 31, "web_id": 20, "x": 724071.101736, "y": 6176895.3665, "longitude": 12.564734, "latitude": 55.686017, "graffitirenhold": "Ja", "ogc_fid": "107" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3150",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56521499, 55.68648284]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61639, "navn": "Tiberen", "loebenummer": 32, "web_id": 84, "x": 724098.634516, "y": 6176948.744224, "longitude": 12.565215, "latitude": 55.686483, "graffitirenhold": "Ja", "ogc_fid": "108" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3151",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5626468, 55.6869876]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61640, "navn": "Siddende unge mennesker", "loebenummer": 142, "web_id": 190, "x": 723934.395061, "y": 6176996.579384, "longitude": 12.562647, "latitude": 55.686988, "graffitirenhold": "Ja", "ogc_fid": "109" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3152",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56810363, 55.69125437]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61641, "navn": "Liggende figur", "loebenummer": 255, "web_id": 290, "x": 724252.788457, "y": 6177488.743011, "longitude": 12.568104, "latitude": 55.691254, "graffitirenhold": "Ja", "ogc_fid": "110" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3153",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56940017, 55.69235779]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61642, "navn": "Fredens port", "loebenummer": 251, "web_id": 285, "x": 724327.913651, "y": 6177615.65449, "longitude": 12.5694, "latitude": 55.692358, "graffitirenhold": "Ja", "ogc_fid": "111" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3154",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57337386, 55.69518707]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61643, "navn": "Omphalos", "loebenummer": 304, "web_id": 343, "x": 724561.300948, "y": 6177943.175194, "longitude": 12.573374, "latitude": 55.695187, "graffitirenhold": "Ja", "ogc_fid": "112" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3155",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57867853, 55.68727975]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61644, "navn": "Georg Brandes", "loebenummer": 277, "web_id": 316, "x": 724939.933037, "y": 6177080.983529, "longitude": 12.578679, "latitude": 55.68728, "graffitirenhold": "Ja", "ogc_fid": "113" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3156",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58159609, 55.68560878]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61645, "navn": "H.C. Andersen", "loebenummer": 64, "web_id": 118, "x": 725132.838015, "y": 6176904.623336, "longitude": 12.581596, "latitude": 55.685609, "graffitirenhold": "Ja", "ogc_fid": "114" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3157",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56647958, 55.68093572]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61646, "navn": "Jeanne d'Arc", "loebenummer": 16, "web_id": 53, "x": 724209.843359, "y": 6176335.922671, "longitude": 12.56648, "latitude": 55.680936, "graffitirenhold": "Ja", "ogc_fid": "115" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3158",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56829641, 55.68133218]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61647, "navn": "Hvilende satyr", "loebenummer": 28, "web_id": 104, "x": 724321.734892, "y": 6176385.891645, "longitude": 12.568296, "latitude": 55.681332, "graffitirenhold": "Ja", "ogc_fid": "116" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3159",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56878417, 55.68352817]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61648, "navn": "Jødernes flugt", "loebenummer": 230, "web_id": 267, "x": 724339.803825, "y": 6176631.692905, "longitude": 12.568784, "latitude": 55.683528, "graffitirenhold": "Ja", "ogc_fid": "117" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55814253, 55.68158874]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61649, "navn": "Drukken faun", "loebenummer": 6, "web_id": 38, "x": 723682.243536, "y": 6176381.611497, "longitude": 12.558143, "latitude": 55.681589, "graffitirenhold": "Ja", "ogc_fid": "118" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55963519, 55.68104497]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61650, "navn": "Indagine nr. 70", "loebenummer": 306, "web_id": 345, "x": 723779.142699, "y": 6176325.954321, "longitude": 12.559635, "latitude": 55.681045, "graffitirenhold": "Ja", "ogc_fid": "119" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5659767, 55.68981721]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61651, "navn": "Skulptur", "loebenummer": 254, "web_id": 288, "x": 724127.40305, "y": 6177322.033077, "longitude": 12.565977, "latitude": 55.689817, "graffitirenhold": "Ja", "ogc_fid": "120" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57370735, 55.69544243]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61652, "navn": "Effort commun", "loebenummer": 256, "web_id": 291, "x": 724580.783132, "y": 6177972.654812, "longitude": 12.573707, "latitude": 55.695442, "graffitirenhold": "Ja", "ogc_fid": "121" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57050619, 55.67516061]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61653, "navn": "Bjørnespringvandet", "loebenummer": 111, "web_id": 29, "x": 724495.957898, "y": 6175706.689179, "longitude": 12.570506, "latitude": 55.675161, "graffitirenhold": "Nej", "ogc_fid": "122" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_315f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57590534, 55.67980329]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61654, "navn": "Corfitz Ulfeldt", "loebenummer": 240, "web_id": 277, "x": 724808.621543, "y": 6176240.510843, "longitude": 12.575905, "latitude": 55.679803, "graffitirenhold": "Nej", "ogc_fid": "123" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3160",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57905755, 55.69688413]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61655, "navn": "Væsen, der skubber kasse", "loebenummer": 258, "web_id": 293, "x": 724908.559353, "y": 6178150.339919, "longitude": 12.579058, "latitude": 55.696884, "graffitirenhold": "Ja", "ogc_fid": "124" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3161",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5755527, 55.68855967]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61656, "navn": "Tubalkain", "loebenummer": 10, "web_id": 43, "x": 724736.203715, "y": 6177213.186968, "longitude": 12.575553, "latitude": 55.68856, "graffitirenhold": "Ja", "ogc_fid": "125" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3162",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58135302, 55.69061658]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61657, "navn": "Sophus Bauditz", "loebenummer": 36, "web_id": 89, "x": 725088.774885, "y": 6177460.763407, "longitude": 12.581353, "latitude": 55.690617, "graffitirenhold": "Ja", "ogc_fid": "126" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3163",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61319585, 55.64458834]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61664, "navn": "Hundenes hund", "loebenummer": 245, "web_id": 386, "x": 727356.058739, "y": 6172445.808954, "longitude": 12.613196, "latitude": 55.644588, "graffitirenhold": "Ja", "ogc_fid": "127" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3164",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59380587, 55.66967351]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61659, "navn": "Christian Holm", "loebenummer": 144, "web_id": 194, "x": 725991.880409, "y": 6175172.163323, "longitude": 12.593806, "latitude": 55.669673, "graffitirenhold": "Ja", "ogc_fid": "128" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3165",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59393775, 55.67031523]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61660, "navn": "De elskelige christianitter", "loebenummer": 213, "web_id": 254, "x": 725996.467819, "y": 6175243.96014, "longitude": 12.593938, "latitude": 55.670315, "graffitirenhold": "Ja", "ogc_fid": "129" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3166",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59434526, 55.67107053]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61662, "navn": "Amagerport", "loebenummer": 138, "web_id": 187, "x": 726017.723795, "y": 6175329.286529, "longitude": 12.594345, "latitude": 55.67107, "graffitirenhold": "Ja", "ogc_fid": "130" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3167",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59698952, 55.67140841]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61663, "navn": "Martin Andersen Nexø", "loebenummer": 214, "web_id": 255, "x": 726181.968804, "y": 6175375.487374, "longitude": 12.59699, "latitude": 55.671408, "graffitirenhold": "Ja", "ogc_fid": "131" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3168",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59139359, 55.68157036]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61665, "navn": "Franklin D. Roosevelt", "loebenummer": 181, "web_id": 226, "x": 725771.679455, "y": 6176487.371424, "longitude": 12.591394, "latitude": 55.68157, "graffitirenhold": "Ja", "ogc_fid": "132" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3169",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5902815, 55.68186769]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61666, "navn": "J.P.E. Hartmann", "loebenummer": 59, "web_id": 112, "x": 725700.088083, "y": 6176516.815781, "longitude": 12.590281, "latitude": 55.681868, "graffitirenhold": "Ja", "ogc_fid": "133" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61217087, 55.64632613]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61667, "navn": "Borne", "loebenummer": 323, "web_id": 411, "x": 727281.522353, "y": 6172635.709083, "longitude": 12.612171, "latitude": 55.646326, "graffitirenhold": "Ja", "ogc_fid": "134" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54823891, 55.68895605]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61668, "navn": "Artemisspringvandet", "loebenummer": 104, "web_id": 157, "x": 723017.980792, "y": 6177169.042539, "longitude": 12.548239, "latitude": 55.688956, "graffitirenhold": "Ja", "ogc_fid": "135" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54761861, 55.68957554]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61669, "navn": "Moses", "loebenummer": 52, "web_id": 106, "x": 722975.483336, "y": 6177235.943093, "longitude": 12.547619, "latitude": 55.689576, "graffitirenhold": "Ja", "ogc_fid": "136" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54935637, 55.68889112]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61670, "navn": "Laokoon", "loebenummer": 33, "web_id": 21, "x": 723088.554246, "y": 6177165.417432, "longitude": 12.549356, "latitude": 55.688891, "graffitirenhold": "Ja", "ogc_fid": "137" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55423803, 55.69058113]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61671, "navn": "De kantede bærer, de glatte glider", "loebenummer": 260, "web_id": 295, "x": 723385.595957, "y": 6177369.093231, "longitude": 12.554238, "latitude": 55.690581, "graffitirenhold": "Ja", "ogc_fid": "138" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_316f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56625528, 55.69395696]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61672, "navn": "Mod lyset", "loebenummer": 37, "web_id": 22, "x": 724121.202695, "y": 6177783.327867, "longitude": 12.566255, "latitude": 55.693957, "graffitirenhold": "Nej", "ogc_fid": "139" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3170",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57014886, 55.7052929]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61673, "navn": "En fodboldsspiller", "loebenummer": 129, "web_id": 179, "x": 724300.800036, "y": 6179056.629486, "longitude": 12.570149, "latitude": 55.705293, "graffitirenhold": "Ja", "ogc_fid": "140" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3171",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5129328, 55.69671046]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61674, "navn": "Yngling til hest", "loebenummer": 1, "web_id": 385, "x": 720756.168949, "y": 6177918.413934, "longitude": 12.512933, "latitude": 55.69671, "graffitirenhold": "Ja", "ogc_fid": "141" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3172",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58152088, 55.66278802]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61675, "navn": "6. Artilleriafdelings faldne", "loebenummer": 241, "web_id": 278, "x": 725259.30026, "y": 6174366.433398, "longitude": 12.581521, "latitude": 55.662788, "graffitirenhold": "Ja", "ogc_fid": "142" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3173",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56779853, 55.68129595]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61676, "navn": "Silen med bacchusbarn", "loebenummer": 19, "web_id": 63, "x": 724290.658079, "y": 6176380.251751, "longitude": 12.567799, "latitude": 55.681296, "graffitirenhold": "Ja", "ogc_fid": "143" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3174",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5663756, 55.6821152]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61677, "navn": "Den døende galler", "loebenummer": 18, "web_id": 55, "x": 724196.557436, "y": 6176466.759765, "longitude": 12.566376, "latitude": 55.682115, "graffitirenhold": "Ja", "ogc_fid": "144" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3175",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56726097, 55.68132409]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61678, "navn": "Den belvederiske Apollon", "loebenummer": 20, "web_id": 65, "x": 724256.718724, "y": 6176381.642316, "longitude": 12.567261, "latitude": 55.681324, "graffitirenhold": "Ja", "ogc_fid": "145" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3176",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5667211, 55.68052934]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61679, "navn": "Sliberen", "loebenummer": 23, "web_id": 70, "x": 724227.346206, "y": 6176291.509437, "longitude": 12.566721, "latitude": 55.680529, "graffitirenhold": "Ja", "ogc_fid": "146" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3177",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56516147, 55.6803996]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61680, "navn": "Bertel Thorvaldsen", "loebenummer": 190, "web_id": 234, "x": 724130.086249, "y": 6176272.036641, "longitude": 12.565161, "latitude": 55.6804, "graffitirenhold": "Ja", "ogc_fid": "147" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3178",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58179167, 55.67848732]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61681, "navn": "Tre former", "loebenummer": 271, "web_id": 308, "x": 725186.071252, "y": 6176113.265661, "longitude": 12.581792, "latitude": 55.678487, "graffitirenhold": "Ja", "ogc_fid": "148" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3179",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56446037, 55.69545364]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61682, "navn": "Moderen", "loebenummer": 97, "web_id": 151, "x": 723999.889985, "y": 6177943.975632, "longitude": 12.56446, "latitude": 55.695454, "graffitirenhold": "Ja", "ogc_fid": "149" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58195219, 55.67879299]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61683, "navn": "Hans Egede og Giertrud Rask", "loebenummer": 77, "web_id": 133, "x": 725194.400853, "y": 6176147.78169, "longitude": 12.581952, "latitude": 55.678793, "graffitirenhold": "Nej", "ogc_fid": "150" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58201683, 55.67861279]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61684, "navn": "Svend Aage Tauscher", "loebenummer": 273, "web_id": 310, "x": 725199.499284, "y": 6176127.951541, "longitude": 12.582017, "latitude": 55.678613, "graffitirenhold": "Nej", "ogc_fid": "151" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57484295, 55.6991548]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61686, "navn": "Genforeningsmonumentet", "loebenummer": 83, "web_id": 140, "x": 724630.806184, "y": 6178389.198615, "longitude": 12.574843, "latitude": 55.699155, "graffitirenhold": "Ja", "ogc_fid": "152" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56515071, 55.67957278]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61691, "navn": "Fløjtespillende satyr", "loebenummer": 29, "web_id": 78, "x": 724134.141635, "y": 6176180.048396, "longitude": 12.565151, "latitude": 55.679573, "graffitirenhold": "Ja", "ogc_fid": "153" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53321743, 55.66227662]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61692, "navn": "Wienerbørnenes ankomst", "loebenummer": 215, "web_id": 256, "x": 722225.573086, "y": 6174153.676784, "longitude": 12.533217, "latitude": 55.662277, "graffitirenhold": "Ja", "ogc_fid": "154" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_317f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53351853, 55.66243611]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61693, "navn": "Unge mennesker", "loebenummer": 183, "web_id": 228, "x": 722243.597728, "y": 6174172.379422, "longitude": 12.533519, "latitude": 55.662436, "graffitirenhold": "Ja", "ogc_fid": "155" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3180",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52318568, 55.6661798]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61694, "navn": "Og dagen rinder", "loebenummer": 124, "web_id": 175, "x": 721572.835592, "y": 6174555.659214, "longitude": 12.523186, "latitude": 55.66618, "graffitirenhold": "Ja", "ogc_fid": "156" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3181",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5663743, 55.68076463]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61695, "navn": "Hvilende Hermes", "loebenummer": 27, "web_id": 75, "x": 724204.207398, "y": 6176316.554717, "longitude": 12.566374, "latitude": 55.680765, "graffitirenhold": "Ja", "ogc_fid": "157" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3182",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51798386, 55.69969672]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61696, "navn": "Danmark under besættelsen", "loebenummer": 165, "web_id": 211, "x": 721056.570324, "y": 6178266.631919, "longitude": 12.517984, "latitude": 55.699697, "graffitirenhold": "Ja", "ogc_fid": "158" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3183",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52317472, 55.69787117]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61697, "navn": "Gandhi", "loebenummer": 261, "web_id": 296, "x": 721392.920206, "y": 6178080.173437, "longitude": 12.523175, "latitude": 55.697871, "graffitirenhold": "Ja", "ogc_fid": "159" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3184",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53168077, 55.66152619]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61698, "navn": "Kvindefigur", "loebenummer": 84, "web_id": 402, "x": 722133.220447, "y": 6174065.294088, "longitude": 12.531681, "latitude": 55.661526, "graffitirenhold": "Nej", "ogc_fid": "160" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3185",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.4821642, 55.68677793]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61699, "navn": "Mor Groa", "loebenummer": 199, "web_id": 243, "x": 718879.037326, "y": 6176716.172544, "longitude": 12.482164, "latitude": 55.686778, "graffitirenhold": "Ja", "ogc_fid": "161" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3186",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5261809, 55.71728831]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61700, "navn": "Nøgen ung mand", "loebenummer": 207, "web_id": 406, "x": 721471.799268, "y": 6180249.257352, "longitude": 12.526181, "latitude": 55.717288, "graffitirenhold": "Nej", "ogc_fid": "162" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3187",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52982975, 55.71575322]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61701, "navn": "Fra døden til opstandelsen", "loebenummer": 151, "web_id": 405, "x": 721709.571462, "y": 6180090.202245, "longitude": 12.52983, "latitude": 55.715753, "graffitirenhold": "Nej", "ogc_fid": "163" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3188",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5224987, 55.71175684]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61702, "navn": "Afskedsscene", "loebenummer": 158, "web_id": 404, "x": 721271.924053, "y": 6179622.309683, "longitude": 12.522499, "latitude": 55.711757, "graffitirenhold": "Nej", "ogc_fid": "164" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3189",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57320685, 55.69982022]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61703, "navn": "Seks sanseskulpturer", "loebenummer": 315, "web_id": 355, "x": 724524.230613, "y": 6178457.898906, "longitude": 12.573207, "latitude": 55.69982, "graffitirenhold": "Ja", "ogc_fid": "165" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54187445, 55.69952904]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61704, "navn": "Salvador Allende", "loebenummer": 318, "web_id": 390, "x": 722558.020052, "y": 6178324.448345, "longitude": 12.541874, "latitude": 55.699529, "graffitirenhold": "Ja", "ogc_fid": "166" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57166772, 55.70641683]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61705, "navn": "Granitkugle", "loebenummer": 324, "web_id": 414, "x": 724389.734555, "y": 6179186.542215, "longitude": 12.571668, "latitude": 55.706417, "graffitirenhold": "Ja", "ogc_fid": "167" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54849989, 55.70126601]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61706, "navn": "Buksetrold", "loebenummer": 178, "web_id": 223, "x": 722964.247149, "y": 6178538.920918, "longitude": 12.5485, "latitude": 55.701266, "graffitirenhold": "Ja", "ogc_fid": "168" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57436422, 55.6171827]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61707, "navn": "Den store udveksler", "loebenummer": 322, "web_id": 397, "x": 725070.930738, "y": 6169271.342023, "longitude": 12.574364, "latitude": 55.617183, "graffitirenhold": "Ja", "ogc_fid": "169" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5793193, 55.66962899]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61708, "navn": "Arken", "loebenummer": 330, "web_id": 422, "x": 725081.599598, "y": 6175120.082468, "longitude": 12.579319, "latitude": 55.669629, "graffitirenhold": "Ja", "ogc_fid": "170" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_318f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5766569, 55.66736268]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61709, "navn": "Platons hule", "loebenummer": 331, "web_id": 424, "x": 724927.266299, "y": 6174859.399356, "longitude": 12.576657, "latitude": 55.667363, "graffitirenhold": "Ja", "ogc_fid": "171" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3190",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58845686, 55.69418922]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61710, "navn": "Diana til hest", "loebenummer": 42, "web_id": 94, "x": 725514.457556, "y": 6177881.177972, "longitude": 12.588457, "latitude": 55.694189, "graffitirenhold": "Ja", "ogc_fid": "172" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3191",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58177329, 55.69145672]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61712, "navn": "Taras Shevchenko", "loebenummer": 356, "web_id": 464, "x": 725110.34542, "y": 6177555.562619, "longitude": 12.581773, "latitude": 55.691457, "graffitirenhold": "Ja", "ogc_fid": "173" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3192",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59200719, 55.66816072]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61713, "navn": "Danske flyveres minde", "loebenummer": 122, "web_id": 173, "x": 725887.548077, "y": 6174998.060955, "longitude": 12.592007, "latitude": 55.668161, "graffitirenhold": "Ja", "ogc_fid": "174" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3193",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56855497, 55.7038106]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61714, "navn": "Kvartmilesten", "loebenummer": 344, "web_id": 446, "x": 724209.201902, "y": 6178886.619448, "longitude": 12.568555, "latitude": 55.703811, "graffitirenhold": "Nej", "ogc_fid": "175" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3194",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54160028, 55.69884038]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61716, "navn": "Farvel til våbnene", "loebenummer": 353, "web_id": 465, "x": 722544.716237, "y": 6178246.979149, "longitude": 12.5416, "latitude": 55.69884, "graffitirenhold": "Ja", "ogc_fid": "176" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3195",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57351585, 55.70509123]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61717, "navn": "Borgmester H.C.V. Møller", "loebenummer": 164, "web_id": 210, "x": 724513.394149, "y": 6179045.104808, "longitude": 12.573516, "latitude": 55.705091, "graffitirenhold": "Ja", "ogc_fid": "177" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3196",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.4905881, 55.68771317]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61718, "navn": "Søjle", "loebenummer": 354, "web_id": 461, "x": 719403.060583, "y": 6176846.820343, "longitude": 12.490588, "latitude": 55.687713, "graffitirenhold": "Ja", "ogc_fid": "178" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3197",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58297068, 55.64121347]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61719, "navn": "Kærlighedsøen", "loebenummer": 355, "web_id": 462, "x": 725474.482954, "y": 6171971.800302, "longitude": 12.582971, "latitude": 55.641213, "graffitirenhold": "Ja", "ogc_fid": "179" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3198",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58255239, 55.67843497]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61720, "navn": "August Bournonville ", "loebenummer": 244, "web_id": 429, "x": 725234.175919, "y": 6176109.915498, "longitude": 12.582552, "latitude": 55.678435, "graffitirenhold": "Nej", "ogc_fid": "180" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3199",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59075169, 55.66798667]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61721, "navn": "Ko, der er i færd med at rejse sig", "loebenummer": 156, "web_id": 203, "x": 725809.635462, "y": 6174974.614867, "longitude": 12.590752, "latitude": 55.667987, "graffitirenhold": "Ja", "ogc_fid": "181" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56657231, 55.69435908]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61722, "navn": "Blå/rød Statement", "loebenummer": 347, "web_id": 470, "x": 724138.81432, "y": 6177829.073867, "longitude": 12.566572, "latitude": 55.694359, "graffitirenhold": "Ja", "ogc_fid": "182" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58731206, 55.69116598]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61723, "navn": "Det ægyptiske æg", "loebenummer": 370, "web_id": 486, "x": 725459.959045, "y": 6177541.232504, "longitude": 12.587312, "latitude": 55.691166, "graffitirenhold": "Ja", "ogc_fid": "183" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55168083, 55.69233623]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61725, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 723214.942242, "y": 6177556.044939, "longitude": 12.551681, "latitude": 55.692336, "graffitirenhold": "Nej", "ogc_fid": "184" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54669879, 55.72243555]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61726, "navn": "Gjerrøds datter", "loebenummer": 139, "web_id": 188, "x": 722730.565541, "y": 6180887.478688, "longitude": 12.546699, "latitude": 55.722436, "graffitirenhold": "Ja", "ogc_fid": "185" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59067479, 55.68176109]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61727, "navn": "Herman Bang", "loebenummer": 360, "web_id": 471, "x": 725725.41483, "y": 6176506.241713, "longitude": 12.590675, "latitude": 55.681761, "graffitirenhold": "Ja", "ogc_fid": "186" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_319f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56440117, 55.68293896]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61728, "navn": "Hønsefødder ", "loebenummer": 259, "web_id": 294, "x": 724067.781769, "y": 6176551.987374, "longitude": 12.564401, "latitude": 55.682939, "graffitirenhold": "Ja", "ogc_fid": "187" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5652298, 55.68354235]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61729, "navn": "Borne", "loebenummer": 292, "web_id": 332, "x": 724116.393963, "y": 6176621.771557, "longitude": 12.56523, "latitude": 55.683542, "graffitirenhold": "Ja", "ogc_fid": "188" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58330959, 55.67662352]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61730, "navn": "Tordenskjold", "loebenummer": 68, "web_id": 122, "x": 725292.17697, "y": 6175910.921258, "longitude": 12.58331, "latitude": 55.676623, "graffitirenhold": "Nej", "ogc_fid": "189" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59741633, 55.68591435]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61731, "navn": "David", "loebenummer": 74, "web_id": 130, "x": 726125.029922, "y": 6176990.106732, "longitude": 12.597416, "latitude": 55.685914, "graffitirenhold": "Nej", "ogc_fid": "190" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56947174, 55.67190377]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61732, "navn": "Rudolph Berg", "loebenummer": 82, "web_id": 138, "x": 724449.606929, "y": 6175341.137966, "longitude": 12.569472, "latitude": 55.671904, "graffitirenhold": "Nej", "ogc_fid": "191" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56955572, 55.67563844]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61733, "navn": "Ærkebiskop Absalon", "loebenummer": 108, "web_id": 161, "x": 724433.487555, "y": 6175756.751871, "longitude": 12.569556, "latitude": 55.675638, "graffitirenhold": "Nej", "ogc_fid": "192" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56977953, 55.67568654]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61734, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724447.277705, "y": 6175762.825718, "longitude": 12.56978, "latitude": 55.675687, "graffitirenhold": "Nej", "ogc_fid": "193" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57927546, 55.67768055]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61735, "navn": "Fiskerkone", "loebenummer": 137, "web_id": 186, "x": 725032.588326, "y": 6176015.371455, "longitude": 12.579275, "latitude": 55.677681, "graffitirenhold": "Ja", "ogc_fid": "194" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50304987, 55.66726184]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64970, "navn": "regn søvn blå kys", "loebenummer": 364, "web_id": 475, "x": 720300.98934, "y": 6174611.829721, "longitude": 12.50305, "latitude": 55.667262, "graffitirenhold": "Ja", "ogc_fid": "195" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57033176, 55.67472068]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64972, "navn": "Den slanke, der løfter den tunge", "loebenummer": 262, "web_id": 297, "x": 724487.517078, "y": 6175657.197907, "longitude": 12.570332, "latitude": 55.674721, "graffitirenhold": "Ja", "ogc_fid": "196" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31a9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5729815, 55.67320351]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64974, "navn": "Dantesøjlen", "loebenummer": 73, "web_id": 129, "x": 724662.743603, "y": 6175497.054103, "longitude": 12.572981, "latitude": 55.673203, "graffitirenhold": "Ja", "ogc_fid": "197" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31aa",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57175599, 55.67302736]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64975, "navn": "Georg Zoëga", "loebenummer": 2, "web_id": 81, "x": 724586.73197, "y": 6175473.492898, "longitude": 12.571756, "latitude": 55.673027, "graffitirenhold": "Ja", "ogc_fid": "198" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ab",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57283166, 55.67249198]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64976, "navn": "Asmus Jacob Carstens", "loebenummer": 5, "web_id": 36, "x": 724657.40651, "y": 6175417.437695, "longitude": 12.572832, "latitude": 55.672492, "graffitirenhold": "Ja", "ogc_fid": "199" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ac",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56532723, 55.67868221]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64977, "navn": "Løve og løvinde", "loebenummer": 8, "web_id": 39, "x": 724150.330325, "y": 6176081.576388, "longitude": 12.565327, "latitude": 55.678682, "graffitirenhold": "Ja", "ogc_fid": "200" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ad",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56295392, 55.67808163]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64978, "navn": "Stauning-monumentet", "loebenummer": 197, "web_id": 241, "x": 724004.626901, "y": 6176007.111747, "longitude": 12.562954, "latitude": 55.678082, "graffitirenhold": "Ja", "ogc_fid": "201" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ae",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56581544, 55.68213378]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64979, "navn": "Anders Sandøe Ørsted", "loebenummer": 13, "web_id": 47, "x": 724161.253436, "y": 6176467.014499, "longitude": 12.565815, "latitude": 55.682134, "graffitirenhold": "Ja", "ogc_fid": "202" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31af",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56641309, 55.6812575]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64980, "navn": "Natalie Zahle", "loebenummer": 15, "web_id": 48, "x": 724203.8233, "y": 6176371.493315, "longitude": 12.566413, "latitude": 55.681257, "graffitirenhold": "Ja", "ogc_fid": "203" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59311119, 55.68647703]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64981, "navn": "Havhestebrønd", "loebenummer": 159, "web_id": 205, "x": 725851.302902, "y": 6177038.64583, "longitude": 12.593111, "latitude": 55.686477, "graffitirenhold": "Nej", "ogc_fid": "204" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57003937, 55.6758014]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64982, "navn": "Isbjørn", "loebenummer": 177, "web_id": 222, "x": 724462.948473, "y": 6175776.441312, "longitude": 12.570039, "latitude": 55.675801, "graffitirenhold": "Nej", "ogc_fid": "205" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57788119, 55.67658367]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64983, "navn": "Quadriga", "loebenummer": 185, "web_id": 230, "x": 724951.27032, "y": 6175888.860114, "longitude": 12.577881, "latitude": 55.676584, "graffitirenhold": "Nej", "ogc_fid": "206" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.570662, 55.67971031]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64985, "navn": "Døden og moderen", "loebenummer": 51, "web_id": 105, "x": 724479.673777, "y": 6176213.177317, "longitude": 12.570662, "latitude": 55.67971, "graffitirenhold": "Nej", "ogc_fid": "207" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57794594, 55.68627858]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64987, "navn": "Caroline Amalie", "loebenummer": 65, "web_id": 119, "x": 724899.658038, "y": 6176967.263525, "longitude": 12.577946, "latitude": 55.686279, "graffitirenhold": "Ja", "ogc_fid": "208" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58406961, 55.69209644]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64988, "navn": "Sophus Schandorf", "loebenummer": 35, "web_id": 88, "x": 725250.916686, "y": 6177634.168237, "longitude": 12.58407, "latitude": 55.692096, "graffitirenhold": "Ja", "ogc_fid": "209" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58147037, 55.6916418]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64989, "navn": "Niels W. Gade", "loebenummer": 58, "web_id": 111, "x": 725090.252373, "y": 6177575.162112, "longitude": 12.58147, "latitude": 55.691642, "graffitirenhold": "Ja", "ogc_fid": "210" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58999665, 55.68132075]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64990, "navn": "En neapolitansk fisker", "loebenummer": 9, "web_id": 42, "x": 725685.341767, "y": 6176455.062624, "longitude": 12.589997, "latitude": 55.681321, "graffitirenhold": "Ja", "ogc_fid": "211" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60044564, 55.69919351]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64991, "navn": "Holger Hammerich", "loebenummer": 48, "web_id": 100, "x": 726238.595981, "y": 6178476.78986, "longitude": 12.600446, "latitude": 55.699193, "graffitirenhold": "Ja", "ogc_fid": "212" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31b9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60252583, 55.64642803]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64992, "navn": "Fire gule kiler", "loebenummer": 288, "web_id": 328, "x": 726674.348968, "y": 6172615.470369, "longitude": 12.602526, "latitude": 55.646428, "graffitirenhold": "Nej", "ogc_fid": "213" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ba",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51364352, 55.66599266]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65089, "navn": "Kone med hundene", "loebenummer": 363, "web_id": 474, "x": 720974.059506, "y": 6174504.391328, "longitude": 12.513644, "latitude": 55.665993, "graffitirenhold": "Ja", "ogc_fid": "214" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31bb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57399423, 55.68274238]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64984, "navn": "Hyldemor", "loebenummer": 269, "web_id": 304, "x": 724671.669806, "y": 6176561.17856, "longitude": 12.573994, "latitude": 55.682742, "graffitirenhold": "Ja", "ogc_fid": "215" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31bc",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58865955, 55.69082429]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64993, "navn": "Carl Nielsen", "loebenummer": 134, "web_id": 183, "x": 725546.576419, "y": 6177507.616875, "longitude": 12.58866, "latitude": 55.690824, "graffitirenhold": "Ja", "ogc_fid": "216" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31bd",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59683422, 55.67405668]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64994, "navn": "Willy Trosborg", "loebenummer": 276, "web_id": 315, "x": 726156.918854, "y": 6175669.497614, "longitude": 12.596834, "latitude": 55.674057, "graffitirenhold": "Ja", "ogc_fid": "217" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31be",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61044595, 55.66023863]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64995, "navn": "Sole og galakser i rum", "loebenummer": 205, "web_id": 247, "x": 727092.437132, "y": 6174177.273901, "longitude": 12.610446, "latitude": 55.660239, "graffitirenhold": "Nej", "ogc_fid": "218" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31bf",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61984824, 55.65875432]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64996, "navn": "Sgraffitogavl", "loebenummer": 195, "web_id": 238, "x": 727692.16537, "y": 6174043.040604, "longitude": 12.619848, "latitude": 55.658754, "graffitirenhold": "Nej", "ogc_fid": "219" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.619314, 55.65514989]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64997, "navn": "Lauritz P. Holmblad", "loebenummer": 81, "web_id": 137, "x": 727679.512587, "y": 6173640.437146, "longitude": 12.619314, "latitude": 55.65515, "graffitirenhold": "Ja", "ogc_fid": "220" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.62019209, 55.65528975]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64998, "navn": "Spejldam", "loebenummer": 289, "web_id": 329, "x": 727733.911249, "y": 6173658.874394, "longitude": 12.620192, "latitude": 55.65529, "graffitirenhold": "Nej", "ogc_fid": "221" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61148294, 55.64953155]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64999, "navn": "Kvinde, der kæmmer sig", "loebenummer": 145, "web_id": 192, "x": 727219.682527, "y": 6172989.931035, "longitude": 12.611483, "latitude": 55.649532, "graffitirenhold": "Ja", "ogc_fid": "222" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59848906, 55.65217134]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65000, "navn": "Fem blomster, fugle, sol", "loebenummer": 219, "web_id": 257, "x": 726387.310116, "y": 6173241.001754, "longitude": 12.598489, "latitude": 55.652171, "graffitirenhold": "Nej", "ogc_fid": "223" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59658092, 55.64850434]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65001, "navn": "Stående kalv", "loebenummer": 225, "web_id": 264, "x": 726288.485733, "y": 6172826.961747, "longitude": 12.596581, "latitude": 55.648504, "graffitirenhold": "Ja", "ogc_fid": "224" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58882324, 55.68225591]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65002, "navn": "Christian X", "loebenummer": 179, "web_id": 224, "x": 725606.223351, "y": 6176555.243541, "longitude": 12.588823, "latitude": 55.682256, "graffitirenhold": "Ja", "ogc_fid": "225" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59928574, 55.69286316]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65003, "navn": "Den lille havfrue", "loebenummer": 71, "web_id": 126, "x": 726202.328835, "y": 6177768.995465, "longitude": 12.599286, "latitude": 55.692863, "graffitirenhold": "Ja", "ogc_fid": "226" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59126882, 55.67202256]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65004, "navn": "Grønlandsmonumentet", "loebenummer": 123, "web_id": 174, "x": 725818.87756, "y": 6175425.136959, "longitude": 12.591269, "latitude": 55.672023, "graffitirenhold": "Ja", "ogc_fid": "227" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58860227, 55.65555622]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65005, "navn": "Uden  titel", "loebenummer": 321, "web_id": 394, "x": 725746.118813, "y": 6173585.203641, "longitude": 12.588602, "latitude": 55.655556, "graffitirenhold": "Ja", "ogc_fid": "228" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31c9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60705862, 55.68876841]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65006, "navn": "Slaget på Reden", "loebenummer": 43, "web_id": 95, "x": 726714.302982, "y": 6177339.009618, "longitude": 12.607059, "latitude": 55.688768, "graffitirenhold": "Nej", "ogc_fid": "229" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ca",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56956187, 55.68720911]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65007, "navn": "Valdemar Holmer", "loebenummer": 86, "web_id": 142, "x": 724367.575597, "y": 6177043.577753, "longitude": 12.569562, "latitude": 55.687209, "graffitirenhold": "Nej", "ogc_fid": "230" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31cb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5708798, 55.68811263]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65008, "navn": "H.V.S. Gredsted", "loebenummer": 87, "web_id": 143, "x": 724445.196747, "y": 6177148.327835, "longitude": 12.57088, "latitude": 55.688113, "graffitirenhold": "Nej", "ogc_fid": "231" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31cc",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5894242, 55.68182586]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65009, "navn": "Jørgen V. Sonne", "loebenummer": 180, "web_id": 225, "x": 725646.461441, "y": 6176509.37268, "longitude": 12.589424, "latitude": 55.681826, "graffitirenhold": "Nej", "ogc_fid": "232" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31cd",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59568611, 55.67338234]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65010, "navn": "Abegruppe", "loebenummer": 196, "web_id": 240, "x": 726088.655992, "y": 6175590.758258, "longitude": 12.595686, "latitude": 55.673382, "graffitirenhold": "Nej", "ogc_fid": "233" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ce",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56837319, 55.68748113]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65011, "navn": "Skulptur", "loebenummer": 279, "web_id": 318, "x": 724291.337408, "y": 6177069.982829, "longitude": 12.568373, "latitude": 55.687481, "graffitirenhold": "Nej", "ogc_fid": "234" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31cf",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58930667, 55.68185554]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65012, "navn": "C.W. Eckersberg", "loebenummer": 291, "web_id": 331, "x": 725638.905957, "y": 6176512.291301, "longitude": 12.589307, "latitude": 55.681856, "graffitirenhold": "Nej", "ogc_fid": "235" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60026775, 55.69554855]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65013, "navn": "Jutlandia", "loebenummer": 268, "web_id": 303, "x": 726248.4926, "y": 6178070.847156, "longitude": 12.600268, "latitude": 55.695549, "graffitirenhold": "Ja", "ogc_fid": "236" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58810535, 55.69104771]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65014, "navn": "To søstre", "loebenummer": 116, "web_id": 168, "x": 725510.474705, "y": 6177530.660115, "longitude": 12.588105, "latitude": 55.691048, "graffitirenhold": "Ja", "ogc_fid": "237" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58809413, 55.69174169]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65015, "navn": "Nulpunktsten Østerport", "loebenummer": 85, "web_id": 141, "x": 725505.772347, "y": 6177607.803205, "longitude": 12.588094, "latitude": 55.691742, "graffitirenhold": "Ja", "ogc_fid": "238" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57719516, 55.63909698]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65016, "navn": "Skulptur i tre dele", "loebenummer": 248, "web_id": 282, "x": 725123.35137, "y": 6171717.658294, "longitude": 12.577195, "latitude": 55.639097, "graffitirenhold": "Ja", "ogc_fid": "239" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53910763, 55.65374732]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65017, "navn": "Anker", "loebenummer": 238, "web_id": 275, "x": 722644.31261, "y": 6173223.996328, "longitude": 12.539108, "latitude": 55.653747, "graffitirenhold": "Ja", "ogc_fid": "240" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59615847, 55.64945921]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65018, "navn": "Blå vifteskulptur", "loebenummer": 231, "web_id": 268, "x": 726256.409406, "y": 6172931.776121, "longitude": 12.596158, "latitude": 55.649459, "graffitirenhold": "Ja", "ogc_fid": "241" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53896898, 55.65856725]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65020, "navn": "Hestebetvinger", "loebenummer": 7, "web_id": 41, "x": 722608.221897, "y": 6173759.593715, "longitude": 12.538969, "latitude": 55.658567, "graffitirenhold": "Ja", "ogc_fid": "242" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56062892, 55.69077923]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65021, "navn": "Huset, der regner", "loebenummer": 296, "web_id": 335, "x": 723785.94555, "y": 6177411.741193, "longitude": 12.560629, "latitude": 55.690779, "graffitirenhold": "Ja", "ogc_fid": "243" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55720651, 55.69562631]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65022, "navn": "Guldskat", "loebenummer": 275, "web_id": 314, "x": 723543.2667, "y": 6177939.757032, "longitude": 12.557207, "latitude": 55.695626, "graffitirenhold": "Ja", "ogc_fid": "244" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31d9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55579676, 55.70761553]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65023, "navn": "Grundtvigs Højskole", "loebenummer": 166, "web_id": 212, "x": 723386.267539, "y": 6179268.574537, "longitude": 12.555797, "latitude": 55.707615, "graffitirenhold": "Ja", "ogc_fid": "245" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31da",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58286775, 55.70830787]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65024, "navn": "Manana", "loebenummer": 235, "web_id": 272, "x": 725082.16105, "y": 6179433.17417, "longitude": 12.582868, "latitude": 55.708308, "graffitirenhold": "Nej", "ogc_fid": "246" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31db",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58550231, 55.70337606]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65025, "navn": "Spejlbassin ", "loebenummer": 308, "web_id": 347, "x": 725275.983181, "y": 6178893.25733, "longitude": 12.585502, "latitude": 55.703376, "graffitirenhold": "Nej", "ogc_fid": "247" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31dc",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57570607, 55.7270081]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65026, "navn": "Bymærke", "loebenummer": 80, "web_id": 136, "x": 724525.083744, "y": 6181489.64037, "longitude": 12.575706, "latitude": 55.727008, "graffitirenhold": "Ja", "ogc_fid": "248" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31dd",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51353845, 55.64958772]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65027, "navn": "Diskoskasteren", "loebenummer": 25, "web_id": 73, "x": 721059.950163, "y": 6172679.582327, "longitude": 12.513538, "latitude": 55.649588, "graffitirenhold": "Ja", "ogc_fid": "249" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31de",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.48190163, 55.68478737]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65028, "navn": "Børnenes undervisning i naturen", "loebenummer": 198, "web_id": 242, "x": 718873.666323, "y": 6176493.960201, "longitude": 12.481902, "latitude": 55.684787, "graffitirenhold": "Nej", "ogc_fid": "250" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31df",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52276835, 55.69806976]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65029, "navn": "Mand og pige", "loebenummer": 102, "web_id": 155, "x": 721366.272531, "y": 6178100.960926, "longitude": 12.522768, "latitude": 55.69807, "graffitirenhold": "Ja", "ogc_fid": "251" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53234735, 55.7122675]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65031, "navn": "Sneugle", "loebenummer": 202, "web_id": 245, "x": 721887.400989, "y": 6179710.59658, "longitude": 12.532347, "latitude": 55.712267, "graffitirenhold": "Ja", "ogc_fid": "252" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54015477, 55.71353421]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65032, "navn": "Lille Gefion", "loebenummer": 281, "web_id": 320, "x": 722370.401778, "y": 6179876.502042, "longitude": 12.540155, "latitude": 55.713534, "graffitirenhold": "Ja", "ogc_fid": "253" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54145366, 55.7149166]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65033, "navn": "Kone på kasse", "loebenummer": 285, "web_id": 325, "x": 722444.090726, "y": 6180034.412882, "longitude": 12.541454, "latitude": 55.714917, "graffitirenhold": "Ja", "ogc_fid": "254" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53882661, 55.71457051]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65034, "navn": "Dynamisk vækst", "loebenummer": 286, "web_id": 326, "x": 722281.12527, "y": 6179987.492772, "longitude": 12.538827, "latitude": 55.71457, "graffitirenhold": "Ja", "ogc_fid": "255" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55164793, 55.71702406]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65035, "navn": "Dreng, der spiller bold", "loebenummer": 201, "web_id": 244, "x": 723072.088667, "y": 6180301.567347, "longitude": 12.551648, "latitude": 55.717024, "graffitirenhold": "Nej", "ogc_fid": "256" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57618128, 55.68133198]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65036, "navn": "Wessel og Ewald", "loebenummer": 78, "web_id": 134, "x": 724817.185854, "y": 6176411.415932, "longitude": 12.576181, "latitude": 55.681332, "graffitirenhold": "Ja", "ogc_fid": "257" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56933917, 55.67574458]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65039, "navn": "Bronzekumme", "loebenummer": 56, "web_id": 109, "x": 724419.27084, "y": 6175767.855329, "longitude": 12.569339, "latitude": 55.675745, "graffitirenhold": "Ja", "ogc_fid": "258" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57015486, 55.67602043]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65040, "navn": "Lurblæserne", "loebenummer": 57, "web_id": 110, "x": 724468.951643, "y": 6175801.174139, "longitude": 12.570155, "latitude": 55.67602, "graffitirenhold": "Ja", "ogc_fid": "259" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57327786, 55.67451654]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65045, "navn": "Stormen på København", "loebenummer": 4, "web_id": 34, "x": 724673.838961, "y": 6175644.040274, "longitude": 12.573278, "latitude": 55.674517, "graffitirenhold": "Nej", "ogc_fid": "260" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31e9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58118967, 55.67882602]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65047, "navn": "Kildeindfatning", "loebenummer": 107, "web_id": 160, "x": 725146.294589, "y": 6176148.977459, "longitude": 12.58119, "latitude": 55.678826, "graffitirenhold": "Nej", "ogc_fid": "261" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ea",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57709656, 55.67879]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65048, "navn": "Den ukendte KZ-lejrfanges grav", "loebenummer": 168, "web_id": 363, "x": 724889.293306, "y": 6176131.684987, "longitude": 12.577097, "latitude": 55.67879, "graffitirenhold": "Nej", "ogc_fid": "262" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31eb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58260962, 55.68075973]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65049, "navn": "Skadebrønd", "loebenummer": 246, "web_id": 280, "x": 725224.403331, "y": 6176368.64247, "longitude": 12.58261, "latitude": 55.68076, "graffitirenhold": "Nej", "ogc_fid": "263" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ec",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58020995, 55.67760851]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65050, "navn": "Agnete og havmanden", "loebenummer": 301, "web_id": 340, "x": 725091.726451, "y": 6176010.394028, "longitude": 12.58021, "latitude": 55.677608, "graffitirenhold": "Nej", "ogc_fid": "264" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ed",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57643613, 55.68163435]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65051, "navn": "Claudi Rosset", "loebenummer": 118, "web_id": 170, "x": 724831.463433, "y": 6176445.869053, "longitude": 12.576436, "latitude": 55.681634, "graffitirenhold": "Nej", "ogc_fid": "265" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ee",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55548531, 55.69383927]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65052, "navn": "Dansende piger", "loebenummer": 136, "web_id": 185, "x": 723445.353596, "y": 6177735.462863, "longitude": 12.555485, "latitude": 55.693839, "graffitirenhold": "Ja", "ogc_fid": "266" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ef",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53103297, 55.66142848]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65054, "navn": "En falden", "loebenummer": 150, "web_id": 409, "x": 722093.048488, "y": 6174052.352316, "longitude": 12.531033, "latitude": 55.661428, "graffitirenhold": "Ja", "ogc_fid": "267" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f0",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52830291, 55.6612875]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65055, "navn": "Fresko", "loebenummer": 209, "web_id": 410, "x": 721922.212018, "y": 6174027.93135, "longitude": 12.528303, "latitude": 55.661287, "graffitirenhold": "Nej", "ogc_fid": "268" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f1",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52835948, 55.66141499]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65056, "navn": "Begravelse og opstandelse", "loebenummer": 188, "web_id": 408, "x": 721925.046292, "y": 6174042.291259, "longitude": 12.528359, "latitude": 55.661415, "graffitirenhold": "Nej", "ogc_fid": "269" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f2",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5308969, 55.64705963]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65057, "navn": "Musikken", "loebenummer": 95, "web_id": 149, "x": 722165.906089, "y": 6172453.896651, "longitude": 12.530897, "latitude": 55.64706, "graffitirenhold": "Ja", "ogc_fid": "270" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f3",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53222422, 55.70214967]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65058, "navn": "Dreng med ged", "loebenummer": 131, "web_id": 181, "x": 721937.05483, "y": 6178584.950905, "longitude": 12.532224, "latitude": 55.70215, "graffitirenhold": "Ja", "ogc_fid": "271" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f4",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53972115, 55.69315844]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65059, "navn": "Udsmykning af Rungsted Plads", "loebenummer": 312, "web_id": 351, "x": 722458.981735, "y": 6177609.03315, "longitude": 12.539721, "latitude": 55.693158, "graffitirenhold": "Ja", "ogc_fid": "272" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f5",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55662828, 55.69396009]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65060, "navn": "Afrodite", "loebenummer": 125, "web_id": 176, "x": 723516.460617, "y": 6177752.585873, "longitude": 12.556628, "latitude": 55.69396, "graffitirenhold": "Ja", "ogc_fid": "273" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f6",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55731311, 55.70861532]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65061, "navn": "Larve", "loebenummer": 295, "web_id": 334, "x": 723475.773747, "y": 6179384.654348, "longitude": 12.557313, "latitude": 55.708615, "graffitirenhold": "Ja", "ogc_fid": "274" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f7",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56700213, 55.71510335]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65062, "navn": "Fugl med unge", "loebenummer": 265, "web_id": 300, "x": 724047.003166, "y": 6180137.49979, "longitude": 12.567002, "latitude": 55.715103, "graffitirenhold": "Ja", "ogc_fid": "275" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f8",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56083042, 55.71278621]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65063, "navn": "Hans Knudsen", "loebenummer": 310, "web_id": 348, "x": 723672.784012, "y": 6179859.862262, "longitude": 12.56083, "latitude": 55.712786, "graffitirenhold": "Ja", "ogc_fid": "276" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31f9",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59175266, 55.66807562]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65064, "navn": "Ulrich Birch", "loebenummer": 39, "web_id": 23, "x": 725872.040298, "y": 6174987.767862, "longitude": 12.591753, "latitude": 55.668076, "graffitirenhold": "Ja", "ogc_fid": "277" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31fa",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56403868, 55.70275558]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65066, "navn": "F.J. Borgbjerg", "loebenummer": 128, "web_id": 178, "x": 723931.61886, "y": 6178754.684483, "longitude": 12.564039, "latitude": 55.702756, "graffitirenhold": "Ja", "ogc_fid": "278" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31fb",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56639777, 55.70139507]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65067, "navn": "Skulptur i tre dele", "loebenummer": 249, "web_id": 283, "x": 724087.563172, "y": 6178611.003469, "longitude": 12.566398, "latitude": 55.701395, "graffitirenhold": "Ja", "ogc_fid": "279" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31fc",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57318474, 55.70729752]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65068, "navn": "Ove Rode", "loebenummer": 127, "web_id": 177, "x": 724479.94298, "y": 6179289.399478, "longitude": 12.573185, "latitude": 55.707297, "graffitirenhold": "Ja", "ogc_fid": "280" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31fd",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57725658, 55.70408985]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65069, "navn": "Ved målet", "loebenummer": 169, "web_id": 214, "x": 724754.053262, "y": 6178945.864011, "longitude": 12.577257, "latitude": 55.70409, "graffitirenhold": "Nej", "ogc_fid": "281" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31fe",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56856717, 55.69666795]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65070, "navn": "Valdemar Bie", "loebenummer": 146, "web_id": 195, "x": 724250.892841, "y": 6178092.303398, "longitude": 12.568567, "latitude": 55.696668, "graffitirenhold": "Ja", "ogc_fid": "282" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_31ff",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.572017, 55.70625315]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65071, "navn": "To løver", "loebenummer": 30, "web_id": 82, "x": 724412.606349, "y": 6179169.469677, "longitude": 12.572017, "latitude": 55.706253, "graffitirenhold": "Ja", "ogc_fid": "283" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3200",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57707138, 55.70409939]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65073, "navn": "To sportsscener", "loebenummer": 294, "web_id": 333, "x": 724742.368007, "y": 6178946.324857, "longitude": 12.577071, "latitude": 55.704099, "graffitirenhold": "Nej", "ogc_fid": "284" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3201",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58896284, 55.69794658]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65074, "navn": "J.F. Classen", "loebenummer": 143, "web_id": 191, "x": 725524.590656, "y": 6178300.688026, "longitude": 12.588963, "latitude": 55.697947, "graffitirenhold": "Ja", "ogc_fid": "285" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3202",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58523306, 55.71499182]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65075, "navn": "Stående kvinde", "loebenummer": 184, "web_id": 229, "x": 725192.203047, "y": 6180184.198371, "longitude": 12.585233, "latitude": 55.714992, "graffitirenhold": "Ja", "ogc_fid": "286" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3203",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59590138, 55.69910008]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65077, "navn": "Kristina", "loebenummer": 307, "web_id": 346, "x": 725953.728241, "y": 6178451.572555, "longitude": 12.595901, "latitude": 55.6991, "graffitirenhold": "Ja", "ogc_fid": "287" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3204",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51619561, 55.66259012]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65078, "navn": "Kains efterkommere", "loebenummer": 3, "web_id": 32, "x": 721153.688275, "y": 6174134.114775, "longitude": 12.516196, "latitude": 55.66259, "graffitirenhold": "Ja", "ogc_fid": "288" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3205",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57155574, 55.68377768]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65079, "navn": "Nulpunkt Nørreport", "loebenummer": 76, "web_id": 132, "x": 724512.516398, "y": 6176668.415071, "longitude": 12.571556, "latitude": 55.683778, "graffitirenhold": "Ja", "ogc_fid": "289" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3206",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50757684, 55.6618229]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65081, "navn": "Keramisk vægudsmykning", "loebenummer": 211, "web_id": 251, "x": 720616.17031, "y": 6174021.330152, "longitude": 12.507577, "latitude": 55.661823, "graffitirenhold": "Nej", "ogc_fid": "290" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3207",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51771123, 55.66055468]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65082, "navn": "Vandbærerske", "loebenummer": 203, "web_id": 435, "x": 721260.461222, "y": 6173912.580007, "longitude": 12.517711, "latitude": 55.660555, "graffitirenhold": "Ja", "ogc_fid": "291" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3208",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.49506981, 55.6698795]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65083, "navn": "Løvebrønd", "loebenummer": 187, "web_id": 232, "x": 719784.680342, "y": 6174877.625994, "longitude": 12.49507, "latitude": 55.669879, "graffitirenhold": "Ja", "ogc_fid": "292" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3209",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.49531847, 55.67005276]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65084, "navn": "Livets vilkår", "loebenummer": 186, "web_id": 58, "x": 719799.338263, "y": 6174897.684202, "longitude": 12.495318, "latitude": 55.670053, "graffitirenhold": "Ja", "ogc_fid": "293" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.48332165, 55.69632268]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65090, "navn": "Skulptur", "loebenummer": 224, "web_id": 263, "x": 718898.384323, "y": 6177781.36279, "longitude": 12.483322, "latitude": 55.696323, "graffitirenhold": "Ja", "ogc_fid": "294" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57071073, 55.67465149]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65091, "navn": "Politibetjent", "loebenummer": 110, "web_id": 163, "x": 724511.73019, "y": 6175650.731185, "longitude": 12.570711, "latitude": 55.674651, "graffitirenhold": "Nej", "ogc_fid": "295" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57144143, 55.67512561]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65092, "navn": "Brandmand", "loebenummer": 110, "web_id": 163, "x": 724554.934198, "y": 6175705.825171, "longitude": 12.571441, "latitude": 55.675126, "graffitirenhold": "Nej", "ogc_fid": "296" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57055222, 55.6800023]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65093, "navn": "Peter med hane", "loebenummer": 280, "web_id": 319, "x": 724471.101917, "y": 6176245.295151, "longitude": 12.570552, "latitude": 55.680002, "graffitirenhold": "Nej", "ogc_fid": "297" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.587944, 55.69603381]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65094, "navn": "En blind pige", "loebenummer": 299, "web_id": 338, "x": 725471.617384, "y": 6178084.649947, "longitude": 12.587944, "latitude": 55.696034, "graffitirenhold": "Nej", "ogc_fid": "298" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_320f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58802759, 55.6960175]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65095, "navn": "En blind dreng", "loebenummer": 300, "web_id": 339, "x": 725476.961841, "y": 6178083.108277, "longitude": 12.588028, "latitude": 55.696017, "graffitirenhold": "Nej", "ogc_fid": "299" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3210",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55802326, 55.69490236]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65096, "navn": "Pietá", "loebenummer": 96, "web_id": 150, "x": 723598.704214, "y": 6177861.879041, "longitude": 12.558023, "latitude": 55.694902, "graffitirenhold": "Nej", "ogc_fid": "300" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3211",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57646531, 55.70474103]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65097, "navn": "Kvinde, mand", "loebenummer": 170, "web_id": 215, "x": 724700.623439, "y": 6179015.717891, "longitude": 12.576465, "latitude": 55.704741, "graffitirenhold": "Nej", "ogc_fid": "301" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3212",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57698296, 55.70449261]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65098, "navn": "Kvinde, mand", "loebenummer": 170, "web_id": 215, "x": 724734.557305, "y": 6178989.76852, "longitude": 12.576983, "latitude": 55.704493, "graffitirenhold": "Nej", "ogc_fid": "302" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3213",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57655551, 55.6982422]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65099, "navn": "Siddende puddel", "loebenummer": 232, "web_id": 269, "x": 724743.607304, "y": 6178293.258092, "longitude": 12.576556, "latitude": 55.698242, "graffitirenhold": "Ja", "ogc_fid": "303" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3214",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53840465, 55.71073286]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65100, "navn": "Fabeldyr", "loebenummer": 194, "web_id": 237, "x": 722276.438304, "y": 6179559.335976, "longitude": 12.538405, "latitude": 55.710733, "graffitirenhold": "Ja", "ogc_fid": "304" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3215",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54080199, 55.71286044]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65101, "navn": "Kærligheden mod de syge", "loebenummer": 152, "web_id": 199, "x": 722414.867984, "y": 6179803.64665, "longitude": 12.540802, "latitude": 55.71286, "graffitirenhold": "Ja", "ogc_fid": "305" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3216",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54107769, 55.71297223]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65102, "navn": "Glæden ved genvundet helbred", "loebenummer": 152, "web_id": 199, "x": 722431.542553, "y": 6179816.96465, "longitude": 12.541078, "latitude": 55.712972, "graffitirenhold": "Ja", "ogc_fid": "306" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3217",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54156082, 55.71428935]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65103, "navn": "Tukak maskespil", "loebenummer": 284, "web_id": 324, "x": 722454.385354, "y": 6179964.99792, "longitude": 12.541561, "latitude": 55.714289, "graffitirenhold": "Ja", "ogc_fid": "307" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3218",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54032876, 55.71339937]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65104, "navn": "Borgmester Jensen", "loebenummer": 157, "web_id": 204, "x": 722382.092694, "y": 6179862.064256, "longitude": 12.540329, "latitude": 55.713399, "graffitirenhold": "Ja", "ogc_fid": "308" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3219",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54088823, 55.71282136]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65105, "navn": "Skulptur III", "loebenummer": 282, "web_id": 321, "x": 722420.504892, "y": 6179799.577503, "longitude": 12.540888, "latitude": 55.712821, "graffitirenhold": "Ja", "ogc_fid": "309" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54110327, 55.71291334]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65106, "navn": "Blomsterkumme", "loebenummer": 283, "web_id": 322, "x": 722433.483334, "y": 6179810.49668, "longitude": 12.541103, "latitude": 55.712913, "graffitirenhold": "Nej", "ogc_fid": "310" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57271511, 55.67441714]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65107, "navn": "Moderkærlighed ", "loebenummer": 130, "web_id": 180, "x": 724639.04227, "y": 6175631.161288, "longitude": 12.572715, "latitude": 55.674417, "graffitirenhold": "Nej", "ogc_fid": "311" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53786091, 55.70138287]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65108, "navn": "Michael Christian Lyngsie", "loebenummer": 278, "web_id": 317, "x": 722295.411061, "y": 6178517.738949, "longitude": 12.537861, "latitude": 55.701383, "graffitirenhold": "Ja", "ogc_fid": "312" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53761706, 55.70138784]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65109, "navn": "Stort blad", "loebenummer": 267, "web_id": 302, "x": 722280.06824, "y": 6178517.508701, "longitude": 12.537617, "latitude": 55.701388, "graffitirenhold": "Ja", "ogc_fid": "313" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57319006, 55.67742003]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65110, "navn": "Byens kag", "loebenummer": 175, "web_id": 220, "x": 724651.668749, "y": 6175966.659651, "longitude": 12.57319, "latitude": 55.67742, "graffitirenhold": "Ja", "ogc_fid": "314" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_321f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61336784, 55.66175317]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65111, "navn": "Dagdrømmeren", "loebenummer": 316, "web_id": 356, "x": 727267.348828, "y": 6174355.28174, "longitude": 12.613368, "latitude": 55.661753, "graffitirenhold": "Ja", "ogc_fid": "315" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3220",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61338475, 55.66469041]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65112, "navn": "Liggende kalv", "loebenummer": 325, "web_id": 416, "x": 727251.378924, "y": 6174681.988922, "longitude": 12.613385, "latitude": 55.66469, "graffitirenhold": "Nej", "ogc_fid": "316" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3221",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51288891, 55.66528374]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65115, "navn": "Gøgeunge", "loebenummer": 328, "web_id": 419, "x": 720930.620241, "y": 6174423.143533, "longitude": 12.512889, "latitude": 55.665284, "graffitirenhold": "Nej", "ogc_fid": "317" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3222",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52491902, 55.65737995]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65116, "navn": "Borgermusikken", "loebenummer": 329, "web_id": 420, "x": 721731.574124, "y": 6173582.529214, "longitude": 12.524919, "latitude": 55.65738, "graffitirenhold": "Nej", "ogc_fid": "318" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3223",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56295464, 55.72580811]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65117, "navn": "Skulptur", "loebenummer": 337, "web_id": 434, "x": 723731.643783, "y": 6181314.932546, "longitude": 12.562955, "latitude": 55.725808, "graffitirenhold": "Nej", "ogc_fid": "319" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3224",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5757093, 55.72506127]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65118, "navn": "Rød stålskulptur", "loebenummer": 339, "web_id": 437, "x": 724536.467426, "y": 6181273.137883, "longitude": 12.575709, "latitude": 55.725061, "graffitirenhold": "Nej", "ogc_fid": "320" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3225",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.51461849, 55.69215052]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65119, "navn": "Dreng med fugleunger", "loebenummer": 88, "web_id": 144, "x": 720887.78014, "y": 6177416.649428, "longitude": 12.514618, "latitude": 55.69215, "graffitirenhold": "Ja", "ogc_fid": "321" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3226",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53008312, 55.72275444]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65120, "navn": "Tre sten", "loebenummer": 343, "web_id": 443, "x": 721685.78804, "y": 6180869.652816, "longitude": 12.530083, "latitude": 55.722754, "graffitirenhold": "Ja", "ogc_fid": "322" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3227",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59973644, 55.66501859]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65121, "navn": "Dansk Cyklist Forbunds cykelstipris 1983", "loebenummer": 340, "web_id": 438, "x": 726391.531704, "y": 6174673.832709, "longitude": 12.599736, "latitude": 55.665019, "graffitirenhold": "Nej", "ogc_fid": "323" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3228",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56947519, 55.67561539]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65123, "navn": "To væbnere", "loebenummer": 176, "web_id": 221, "x": 724428.559104, "y": 6175753.927722, "longitude": 12.569475, "latitude": 55.675615, "graffitirenhold": "Nej", "ogc_fid": "324" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3229",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5696273, 55.67570338]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65124, "navn": "To væbnere", "loebenummer": 176, "web_id": 221, "x": 724437.614034, "y": 6175764.206243, "longitude": 12.569627, "latitude": 55.675703, "graffitirenhold": "Nej", "ogc_fid": "325" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59622548, 55.67305008]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65125, "navn": "Christian IV", "loebenummer": 309, "web_id": 396, "x": 726124.472379, "y": 6175555.567178, "longitude": 12.596225, "latitude": 55.67305, "graffitirenhold": "Nej", "ogc_fid": "326" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5771702, 55.67612545]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65126, "navn": "Spejlbassin", "loebenummer": 311, "web_id": 349, "x": 724909.220611, "y": 6175835.592436, "longitude": 12.57717, "latitude": 55.676125, "graffitirenhold": "Nej", "ogc_fid": "327" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54637754, 55.68757394]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65133, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 722908.910862, "y": 6177009.34577, "longitude": 12.546378, "latitude": 55.687574, "graffitirenhold": "Nej", "ogc_fid": "328" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55728115, 55.69553418]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65128, "navn": "Granitskulptur", "loebenummer": 333, "web_id": 426, "x": 723548.481082, "y": 6177929.751846, "longitude": 12.557281, "latitude": 55.695534, "graffitirenhold": "Nej", "ogc_fid": "329" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55016525, 55.6992977]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65129, "navn": "Rød granitskulptur", "loebenummer": 334, "web_id": 427, "x": 723080.058165, "y": 6178325.376315, "longitude": 12.550165, "latitude": 55.699298, "graffitirenhold": "Nej", "ogc_fid": "330" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_322f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56165615, 55.69595236]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65130, "navn": "Kvartmilesten", "loebenummer": 345, "web_id": 447, "x": 723820.896667, "y": 6177990.379246, "longitude": 12.561656, "latitude": 55.695952, "graffitirenhold": "Nej", "ogc_fid": "331" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3230",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54987017, 55.69926864]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65131, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 723061.690571, "y": 6178321.194796, "longitude": 12.54987, "latitude": 55.699269, "graffitirenhold": "Nej", "ogc_fid": "332" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3231",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55770468, 55.6862544]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65134, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 723628.085328, "y": 6176899.081636, "longitude": 12.557705, "latitude": 55.686254, "graffitirenhold": "Nej", "ogc_fid": "333" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3232",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58005262, 55.67798051]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65135, "navn": "Moving the World", "loebenummer": 335, "web_id": 430, "x": 725079.702319, "y": 6176051.254011, "longitude": 12.580053, "latitude": 55.67798, "graffitirenhold": "Nej", "ogc_fid": "334" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3233",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54466011, 55.68668888]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65137, "navn": "Spydsspidsen", "loebenummer": 358, "web_id": 468, "x": 722806.047966, "y": 6176905.392571, "longitude": 12.54466, "latitude": 55.686689, "graffitirenhold": "Ja", "ogc_fid": "335" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3234",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54449031, 55.6873002]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65138, "navn": "Spydsspidsen", "loebenummer": 358, "web_id": 468, "x": 722791.901046, "y": 6176972.834056, "longitude": 12.54449, "latitude": 55.6873, "graffitirenhold": "Ja", "ogc_fid": "336" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3235",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57132901, 55.67567601]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65139, "navn": "Talerstol", "loebenummer": 361, "web_id": 472, "x": 724544.71404, "y": 6175766.672652, "longitude": 12.571329, "latitude": 55.675676, "graffitirenhold": "Ja", "ogc_fid": "337" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3236",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52894155, 55.64716722]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65140, "navn": "Punktet", "loebenummer": 359, "web_id": 469, "x": 722042.321798, "y": 6172459.599764, "longitude": 12.528942, "latitude": 55.647167, "graffitirenhold": "Ja", "ogc_fid": "338" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3237",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53816389, 55.70112001]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65144, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 722315.932769, "y": 6178489.476085, "longitude": 12.538164, "latitude": 55.70112, "graffitirenhold": "Nej", "ogc_fid": "339" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3238",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60314179, 55.68100687]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65142, "navn": "Theophilus Hansen", "loebenummer": 346, "web_id": 450, "x": 726513.130576, "y": 6176463.033219, "longitude": 12.603142, "latitude": 55.681007, "graffitirenhold": "Nej", "ogc_fid": "340" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3239",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55719328, 55.68640804]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65143, "navn": "Figuren Blågårds Plads", "loebenummer": 69, "web_id": 123, "x": 723595.07774, "y": 6176914.518957, "longitude": 12.557193, "latitude": 55.686408, "graffitirenhold": "Nej", "ogc_fid": "341" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55787979, 55.69355847]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65145, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 723597.368822, "y": 6177711.957501, "longitude": 12.55788, "latitude": 55.693558, "graffitirenhold": "Nej", "ogc_fid": "342" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58781284, 55.6804066]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65127, "navn": "Mindeplade for Bethelskibet", "loebenummer": 338, "web_id": 436, "x": 725553.386738, "y": 6176346.289417, "longitude": 12.587813, "latitude": 55.680407, "graffitirenhold": "Nej", "ogc_fid": "343" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56248218, 55.68712221]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65146, "navn": "Jorden bærer dit aftryk", "loebenummer": 357, "web_id": 467, "x": 723923.282752, "y": 6177011.017908, "longitude": 12.562482, "latitude": 55.687122, "graffitirenhold": "Nej", "ogc_fid": "344" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60117582, 55.70369822]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65147, "navn": "Theresienstadt-monumentet", "loebenummer": 348, "web_id": 453, "x": 726258.409132, "y": 6178980.149634, "longitude": 12.601176, "latitude": 55.703698, "graffitirenhold": "Ja", "ogc_fid": "345" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59280777, 55.67841811]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65148, "navn": "Full Length", "loebenummer": 367, "web_id": 482, "x": 725878.718742, "y": 6176141.411195, "longitude": 12.592808, "latitude": 55.678418, "graffitirenhold": "Ja", "ogc_fid": "346" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_323f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57453841, 55.70544999]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65149, "navn": "Mindeplade for Finn Nørgaard", "loebenummer": 368, "web_id": 483, "x": 724575.548928, "y": 6179088.316241, "longitude": 12.574538, "latitude": 55.70545, "graffitirenhold": null, "ogc_fid": "347" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3240",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57722565, 55.70325963]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65150, "navn": "Øjeblik I", "loebenummer": 369, "web_id": 485, "x": 724756.879777, "y": 6178853.433477, "longitude": 12.577226, "latitude": 55.70326, "graffitirenhold": "Ja", "ogc_fid": "348" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3241",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58241503, 55.67604781]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65151, "navn": "Bygherren Christian IV", "loebenummer": 373, "web_id": 509, "x": 725239.27115, "y": 6175843.988315, "longitude": 12.582415, "latitude": 55.676048, "graffitirenhold": "Ja", "ogc_fid": "349" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3242",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54419927, 55.6883108]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65152, "navn": "Spydsspidsen", "loebenummer": 358, "web_id": 468, "x": 722767.866488, "y": 6177084.291256, "longitude": 12.544199, "latitude": 55.688311, "graffitirenhold": "Ja", "ogc_fid": "350" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3243",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56672021, 55.6903397]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65153, "navn": "Før og efter øjeblikket", "loebenummer": 371, "web_id": 488, "x": 724171.11997, "y": 6177382.545506, "longitude": 12.56672, "latitude": 55.69034, "graffitirenhold": "Ja", "ogc_fid": "351" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3244",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56950516, 55.67545502]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65154, "navn": "Isbjørn", "loebenummer": 177, "web_id": 222, "x": 724431.361071, "y": 6175736.189718, "longitude": 12.569505, "latitude": 55.675455, "graffitirenhold": "Nej", "ogc_fid": "352" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3245",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56968552, 55.67561918]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65155, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724441.755607, "y": 6175755.029816, "longitude": 12.569686, "latitude": 55.675619, "graffitirenhold": "Nej", "ogc_fid": "353" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3246",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.569582, 55.67556085]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65156, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724435.583851, "y": 6175748.208401, "longitude": 12.569582, "latitude": 55.675561, "graffitirenhold": "Nej", "ogc_fid": "354" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3247",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56948066, 55.67549809]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65157, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724429.57451, "y": 6175740.899742, "longitude": 12.569481, "latitude": 55.675498, "graffitirenhold": "Nej", "ogc_fid": "355" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3248",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56987275, 55.67574516]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65158, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724452.799803, "y": 6175769.647133, "longitude": 12.569873, "latitude": 55.675745, "graffitirenhold": "Nej", "ogc_fid": "356" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3249",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56997654, 55.6758064]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65159, "navn": "Vægter", "loebenummer": 109, "web_id": 162, "x": 724458.971559, "y": 6175776.793377, "longitude": 12.569977, "latitude": 55.675806, "graffitirenhold": "Nej", "ogc_fid": "357" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61079149, 55.66034382]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65160, "navn": "Sole og galakser i rum", "loebenummer": 205, "web_id": 247, "x": 727113.551034, "y": 6174190.104657, "longitude": 12.610791, "latitude": 55.660344, "graffitirenhold": "Nej", "ogc_fid": "358" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54543444, 55.71058533]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 73128, "navn": "Ung mand med diskos", "loebenummer": 171, "web_id": 216, "x": 722718.671334, "y": 6179565.501972, "longitude": 12.545434, "latitude": 55.710585, "graffitirenhold": "Ja", "ogc_fid": "359" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54242132, 55.711737]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 73129, "navn": "Den humane sygepleje", "loebenummer": 141, "web_id": 189, "x": 722522.929193, "y": 6179683.903509, "longitude": 12.542421, "latitude": 55.711737, "graffitirenhold": "Ja", "ogc_fid": "360" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54360481, 55.70853288]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 73238, "navn": "Pige, der reder sit hår", "loebenummer": 172, "web_id": 217, "x": 722615.469194, "y": 6179331.360779, "longitude": 12.543605, "latitude": 55.708533, "graffitirenhold": "Ja", "ogc_fid": "361" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55194217, 55.69660455]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 73322, "navn": "Vågnende pige", "loebenummer": 117, "web_id": 169, "x": 723207.01936, "y": 6178031.583233, "longitude": 12.551942, "latitude": 55.696605, "graffitirenhold": "Ja", "ogc_fid": "362" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_324f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58402705, 55.7041737]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74034, "navn": null, "loebenummer": null, "web_id": null, "x": 725178.747685, "y": 6178977.169856, "longitude": 12.584027, "latitude": 55.704174, "graffitirenhold": null, "ogc_fid": "363" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3250",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58070539, 55.70159951]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74135, "navn": "Victor Borge", "loebenummer": 351, "web_id": 458, "x": 724984.95177, "y": 6178680.098546, "longitude": 12.580705, "latitude": 55.701599, "graffitirenhold": "Ja", "ogc_fid": "364" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3251",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.49491549, 55.69345804]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74188, "navn": "Hemmeligheden", "loebenummer": 133, "web_id": 182, "x": 719642.706151, "y": 6177499.448442, "longitude": 12.494915, "latitude": 55.693458, "graffitirenhold": "Ja", "ogc_fid": "365" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3252",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.60055914, 55.64618558]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74278, "navn": "Danske kvinders valgret", "loebenummer": 377, "web_id": null, "x": 726552.062893, "y": 6172582.080189, "longitude": 12.600559, "latitude": 55.646186, "graffitirenhold": null, "ogc_fid": "366" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3253",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59636159, 55.6884459]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74280, "navn": "Australske piloter", "loebenummer": 378, "web_id": 466, "x": 726044.147475, "y": 6177268.203969, "longitude": 12.596362, "latitude": 55.688446, "graffitirenhold": "Ja", "ogc_fid": "367" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3254",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59728704, 55.65252006]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74303, "navn": "Abstrakt skulptur", "loebenummer": 242, "web_id": 517, "x": 726309.712406, "y": 6173275.859796, "longitude": 12.597287, "latitude": 55.65252, "graffitirenhold": null, "ogc_fid": "368" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3255",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56329224, 55.67420047]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61610, "navn": "frihedsstøtten", "loebenummer": 54, "web_id": 24, "x": 724048.084953, "y": 6175576.570048, "longitude": 12.563292, "latitude": 55.6742, "graffitirenhold": "Ja", "ogc_fid": "369" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3256",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55380278, 55.67116059]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61685, "navn": "Ung pige ", "loebenummer": 182, "web_id": 227, "x": 723469.037888, "y": 6175207.865789, "longitude": 12.553803, "latitude": 55.671161, "graffitirenhold": "Ja", "ogc_fid": "370" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3257",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54709833, 55.66710082]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61687, "navn": "Drengebarn med fiasco", "loebenummer": 99, "web_id": 152, "x": 723070.759369, "y": 6174734.771639, "longitude": 12.547098, "latitude": 55.667101, "graffitirenhold": "Nej", "ogc_fid": "371" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3258",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54318258, 55.66688432]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61688, "navn": "Venus med æblet", "loebenummer": 53, "web_id": 107, "x": 722825.850468, "y": 6174698.102335, "longitude": 12.543183, "latitude": 55.666884, "graffitirenhold": "Ja", "ogc_fid": "372" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3259",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54093657, 55.66728583]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61690, "navn": "Apollon og de ni muser", "loebenummer": 332, "web_id": 425, "x": 722682.385705, "y": 6174735.539023, "longitude": 12.540937, "latitude": 55.667286, "graffitirenhold": "Ja", "ogc_fid": "373" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54535695, 55.66713087]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61711, "navn": "Legepladsudsmykning", "loebenummer": 341, "web_id": 439, "x": 722961.126774, "y": 6174732.512373, "longitude": 12.545357, "latitude": 55.667131, "graffitirenhold": "Ja", "ogc_fid": "374" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.498501, 55.70398674]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61715, "navn": "Carlstad", "loebenummer": 349, "web_id": 454, "x": 719808.801937, "y": 6178681.778065, "longitude": 12.498501, "latitude": 55.703987, "graffitirenhold": "Ja", "ogc_fid": "375" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55497232, 55.6722237]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65019, "navn": "Heraklesspringvandet", "loebenummer": 114, "web_id": 166, "x": 723536.479855, "y": 6175329.868398, "longitude": 12.554972, "latitude": 55.672224, "graffitirenhold": "Ja", "ogc_fid": "376" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.48512707, 55.71951014]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65030, "navn": "Fodboldspiller", "loebenummer": 247, "web_id": 281, "x": 718882.032987, "y": 6180365.901211, "longitude": 12.485127, "latitude": 55.71951, "graffitirenhold": "Ja", "ogc_fid": "377" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56078338, 55.67322022]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65041, "navn": "Vesterbros blomst", "loebenummer": 270, "web_id": 305, "x": 723896.012551, "y": 6175459.448024, "longitude": 12.560783, "latitude": 55.67322, "graffitirenhold": "Ja", "ogc_fid": "378" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_325f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55916322, 55.66791984]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65042, "navn": "Tyr", "loebenummer": 163, "web_id": 209, "x": 723824.465525, "y": 6174864.743891, "longitude": 12.559163, "latitude": 55.66792, "graffitirenhold": "Nej", "ogc_fid": "379" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3260",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56135201, 55.66358285]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65044, "navn": "Fire steler", "loebenummer": 302, "web_id": 341, "x": 723986.835943, "y": 6174389.483879, "longitude": 12.561352, "latitude": 55.663583, "graffitirenhold": "Ja", "ogc_fid": "380" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3261",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.56094616, 55.66339872]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65053, "navn": "Fire steler", "loebenummer": 302, "web_id": 341, "x": 723962.374776, "y": 6174367.694941, "longitude": 12.560946, "latitude": 55.663399, "graffitirenhold": "Ja", "ogc_fid": "381" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3262",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50866864, 55.70744769]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65065, "navn": "Moder med børn", "loebenummer": 135, "web_id": 184, "x": 720427.839988, "y": 6179098.98687, "longitude": 12.508669, "latitude": 55.707448, "graffitirenhold": "Ja", "ogc_fid": "382" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3263",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.4795555, 55.70955705]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65072, "navn": "Granskende pige", "loebenummer": 100, "web_id": 153, "x": 718587.882625, "y": 6179241.3603, "longitude": 12.479555, "latitude": 55.709557, "graffitirenhold": "Ja", "ogc_fid": "383" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3264",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.48974057, 55.72036374]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65085, "navn": "Kalkun", "loebenummer": 243, "web_id": 279, "x": 719166.866847, "y": 6180475.419618, "longitude": 12.489741, "latitude": 55.720364, "graffitirenhold": "Nej", "ogc_fid": "384" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3265",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.47727365, 55.71412046]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65086, "navn": "To katte, der netter hinanden", "loebenummer": 206, "web_id": 248, "x": 718419.119657, "y": 6179741.694589, "longitude": 12.477274, "latitude": 55.71412, "graffitirenhold": "Ja", "ogc_fid": "385" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3266",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50779756, 55.70965289]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65087, "navn": "Høstmand", "loebenummer": 167, "web_id": 213, "x": 720360.71986, "y": 6179341.470259, "longitude": 12.507798, "latitude": 55.709653, "graffitirenhold": "Ja", "ogc_fid": "386" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3267",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50819953, 55.70438011]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65088, "navn": "Glasmosaik", "loebenummer": 208, "web_id": 249, "x": 720415.661803, "y": 6178756.331739, "longitude": 12.5082, "latitude": 55.70438, "graffitirenhold": "Nej", "ogc_fid": "387" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3268",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.47602937, 55.71567437]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65113, "navn": "Dreng", "loebenummer": 326, "web_id": 417, "x": 718332.323645, "y": 6179910.594343, "longitude": 12.476029, "latitude": 55.715674, "graffitirenhold": "Nej", "ogc_fid": "388" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3269",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.50858631, 55.70448385]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65114, "navn": "Granitskulptur", "loebenummer": 327, "web_id": 418, "x": 720439.366912, "y": 6178769.100255, "longitude": 12.508586, "latitude": 55.704484, "graffitirenhold": "Nej", "ogc_fid": "389" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55697826, 55.66565945]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65122, "navn": "Cyklerne", "loebenummer": 350, "web_id": 455, "x": 723700.028837, "y": 6174606.307318, "longitude": 12.556978, "latitude": 55.665659, "graffitirenhold": "Ja", "ogc_fid": "390" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57360943, 55.673253]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 64973, "navn": "Danske sprogforskere", "loebenummer": 121, "web_id": 172, "x": 724701.924155, "y": 6175504.5936, "longitude": 12.573609, "latitude": 55.673253, "graffitirenhold": "Ja", "ogc_fid": "391" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57765273, 55.67739331]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65141, "navn": "Slægt løfter slægt", "loebenummer": 305, "web_id": 344, "x": 724932.263321, "y": 6175978.160703, "longitude": 12.577653, "latitude": 55.677393, "graffitirenhold": "Nej", "ogc_fid": "392" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.57556956, 55.68142739]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61630, "navn": "Vandkunst", "loebenummer": 221, "web_id": 260, "x": 724778.200578, "y": 6176420.042875, "longitude": 12.57557, "latitude": 55.681427, "graffitirenhold": "Ja", "ogc_fid": "393" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326e",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59409804, 55.67077943]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61661, "navn": "Nulpunkt Amagerport", "loebenummer": 75, "web_id": 131, "x": 726003.865224, "y": 6175296.107058, "longitude": 12.594098, "latitude": 55.670779, "graffitirenhold": "Ja", "ogc_fid": "394" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_326f",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59394506, 55.67008542]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": null, "loebenummer": null, "web_id": null, "x": 725998.253461, "y": 6175218.425785, "longitude": 12.593945, "latitude": 55.670085, "graffitirenhold": null, "ogc_fid": "395" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3270",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58618938, 55.67972639]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65038, "navn": "Adam Oehlenschläger", "loebenummer": 60, "web_id": 113, "x": 725455.289894, "y": 6176265.360372, "longitude": 12.586189, "latitude": 55.679726, "graffitirenhold": "Ja", "ogc_fid": "396" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3271",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58587987, 55.67966848]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65038, "navn": "Ludvig Holberg", "loebenummer": 60, "web_id": 113, "x": 725436.174202, "y": 6176257.913564, "longitude": 12.58588, "latitude": 55.679668, "graffitirenhold": "Ja", "ogc_fid": "397" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3272",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58733025, 55.67031313]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61658, "navn": "Siddende kvinde", "loebenummer": 149, "web_id": 198, "x": 725581.180764, "y": 6175222.20506, "longitude": 12.58733, "latitude": 55.670313, "graffitirenhold": "Ja", "ogc_fid": "398" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3273",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.61084815, 55.66187625]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": null, "loebenummer": null, "web_id": null, "x": 727108.232799, "y": 6174360.712036, "longitude": 12.610848, "latitude": 55.661876, "graffitirenhold": null, "ogc_fid": "399" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3274",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.59523652, 55.66880513]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61724, "navn": "Modstandsbevægelsens faldne", "loebenummer": 160, "web_id": 206, "x": 726086.812842, "y": 6175080.253785, "longitude": 12.595237, "latitude": 55.668805, "graffitirenhold": "Ja", "ogc_fid": "400" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3275",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.58891812, 55.6974724]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65076, "navn": "Kongens Livjægere", "loebenummer": 161, "web_id": 207, "x": 725524.513763, "y": 6178247.80844, "longitude": 12.588918, "latitude": 55.697472, "graffitirenhold": "Ja", "ogc_fid": "401" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3276",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.54182556, 55.66656328]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 61689, "navn": "Ungdom", "loebenummer": 162, "web_id": 208, "x": 722742.373601, "y": 6174658.036835, "longitude": 12.541826, "latitude": 55.666563, "graffitirenhold": "Ja", "ogc_fid": "402" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3277",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.53727707, 55.65430829]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Velkommen til det konstruerede, det romantiske og det oversete", "loebenummer": 385, "web_id": 537, "x": 722526.022178, "y": 6173280.506858, "longitude": 12.537277, "latitude": 55.654308, "graffitirenhold": "Ja", "ogc_fid": "403" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3278",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55931035, 55.65956259]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 74282, "navn": "En rigtig dansk familie", "loebenummer": 379, "web_id": 510, "x": 723881.452223, "y": 6173935.784845, "longitude": 12.55931, "latitude": 55.659563, "graffitirenhold": "Ja", "ogc_fid": "404" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_3279",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.52759322, 55.6516254]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Det her sted, her, nu", "loebenummer": 382, "web_id": 524, "x": 721932.289157, "y": 6172951.096386, "longitude": 12.527593, "latitude": 55.651625, "graffitirenhold": "Ja", "ogc_fid": "405" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_327a",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.5989551, 55.66566017]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Godot", "loebenummer": 384, "web_id": 527, "x": 726338.710196, "y": 6174742.631983, "longitude": 12.598955, "latitude": 55.66566, "graffitirenhold": "Ja", "ogc_fid": "406" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_327b",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.49887689, 55.65984866]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": null, "navn": "Kulbane Allé", "loebenummer": 383, "web_id": 525, "x": 720080.302375, "y": 6173774.115482, "longitude": 12.498877, "latitude": 55.659849, "graffitirenhold": "Ja", "ogc_fid": "407" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_327c",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55812184, 55.66528759]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65043, "navn": "Fire steler", "loebenummer": 302, "web_id": 341, "x": 723774.038872, "y": 6174568.642507, "longitude": 12.558122, "latitude": 55.665288, "graffitirenhold": "Ja", "ogc_fid": "408" }
+    },
+    {
+      "type": "Feature",
+      "id": "monumenter.fid-64c8752f_18a736a77c7_327d",
+      "geometry": { "type": "MultiPoint", "coordinates": [[12.55811531, 55.66527702]] },
+      "geometry_name": "wkb_geometry",
+      "properties": { "id": 65043, "navn": "Fire steler", "loebenummer": 302, "web_id": 341, "x": 723773.688581, "y": 6174567.445222, "longitude": 12.558115, "latitude": 55.665277, "graffitirenhold": "Ja", "ogc_fid": "409" }
+    }
+  ],
+  "totalFeatures": 409,
+  "numberMatched": 409,
+  "numberReturned": 409,
+  "timeStamp": "2023-09-08T07:26:36.220Z",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4326" } }
+}
